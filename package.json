@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.3.16",
+    "dotenv": "^16.0.3"
+  }
+}
