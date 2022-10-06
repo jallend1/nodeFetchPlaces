@@ -35,7 +35,11 @@ sampleInfo.forEach((library, index) => {
         name: data.candidates[0].name,
         latitude: data.candidates[0].geometry.location.lat,
         longitude: data.candidates[0].geometry.location.lng,
-        institutionSymbol: null
+        institutionSymbol: null,
+        date: {
+          year: 2022,
+          month: 7
+        }
       };
       const fileContent = JSON.stringify(locationData);
       if (index === sampleInfo.length - 1) {
