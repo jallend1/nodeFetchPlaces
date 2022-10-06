@@ -33,15 +33,14 @@ sampleInfo.forEach((library, index) => {
     .then(({ data }) => {
       const locationData = {
         name: data.candidates[0].name,
-        lat: data.candidates[0].geometry.location.lat,
-        lng: data.candidates[0].geometry.location.lng
+        latitude: data.candidates[0].geometry.location.lat,
+        longitude: data.candidates[0].geometry.location.lng
       };
       const fileContent = JSON.stringify(locationData);
       if (index === sampleInfo.length - 1) {
         writeStream.write(fileContent + ']');
       } else {
         writeStream.write(fileContent + ',');
-        console.log(fileContent);
       }
     })
     .catch((e) => {
