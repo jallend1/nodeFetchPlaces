@@ -34,7 +34,8 @@ sampleInfo.forEach((library, index) => {
       const locationData = {
         name: data.candidates[0].name,
         latitude: data.candidates[0].geometry.location.lat,
-        longitude: data.candidates[0].geometry.location.lng
+        longitude: data.candidates[0].geometry.location.lng,
+        institutionSymbol: null
       };
       const fileContent = JSON.stringify(locationData);
       if (index === sampleInfo.length - 1) {
