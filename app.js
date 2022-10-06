@@ -17,7 +17,9 @@ const writeStream = fs.createWriteStream('locations.json', {
   flags: 'a'
 });
 
-sampleInfo.forEach((library) => {
+writeStream.write('[');
+
+sampleInfo.forEach((library, index) => {
   client
     .findPlaceFromText({
       params: {
@@ -35,8 +37,12 @@ sampleInfo.forEach((library) => {
         lng: data.candidates[0].geometry.location.lng
       };
       const fileContent = JSON.stringify(locationData);
-      writeStream.write(fileContent);
-      console.log(fileContent);
+      if (index === sampleInfo.length - 1) {
+        writeStream.write(fileContent + ']');
+      } else {
+        writeStream.write(fileContent + ',');
+        console.log(fileContent);
+      }
     })
     .catch((e) => {
       console.log(e);
