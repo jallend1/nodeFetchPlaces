@@ -2,8 +2,15 @@ const { config } = require('dotenv');
 const { Client } = require('@googlemaps/google-maps-services-js');
 const client = new Client({});
 const fs = require('fs');
+const { parse } = require('csv-parse');
 
 config();
+
+fs.createReadStream('./borrowing-sep-csv.csv')
+  .pipe(parse({ delimiter: ',', from_line: 2 }))
+  .on('data', (row) => {
+    console.log(row);
+  });
 
 const sampleInfo = [
   'ALACHUA CNTY LIBR DIST',
