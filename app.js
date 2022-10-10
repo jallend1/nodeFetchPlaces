@@ -34,16 +34,11 @@ const extractDataFromCSV = () => {
 };
 
 const fetchCoordinates = () => {
-  // const sampleInfo = [
-  // 'ANACORTES PUB LIBR',
-  // ];
-
-  const sampleInfo = lendingLibraries.slice(0, 15);
+  // Hardcoded for testing purposes
+  const sampleInfo = lendingLibraries.slice(0, 2);
   const writeStream = fs.createWriteStream('locations.json', {
     flags: 'a'
   });
-
-  // writeStream.write('[');
 
   const libraryDetails = [];
   sampleInfo.forEach((library, index) => {
@@ -72,18 +67,8 @@ const fetchCoordinates = () => {
         };
         libraryDetails.push(locationData);
         if (index === sampleInfo.length - 1) {
-          console.log(library.name, 'The end!');
-          console.log(JSON.stringify(libraryDetails));
           writeStream.write(JSON.stringify(libraryDetails));
         }
-        // const fileContent = JSON.stringify(locationData);
-        // TODO: This is not actually working anymore!
-        // If the library is the last one in the array, close the array, otherwise add a comma
-        // if (index === sampleInfo.length - 1) {
-        //   writeStream.write(fileContent + ']');
-        // } else {
-        //   writeStream.write(fileContent + ',');
-        // }
       })
       .catch((e) => {
         console.log(e);
