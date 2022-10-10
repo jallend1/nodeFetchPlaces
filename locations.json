@@ -1,0 +1,74 @@
+[
+  {
+    "googleMapsName": "Lindell Library",
+    "name": "AUGSBURG UNIV LINDELL LIBR",
+    "latitude": 44.9668218,
+    "longitude": -93.24180009999999,
+    "institutionSymbol": "MNA",
+    "institutionState": "MN",
+    "date": { "year": 2022, "month": 9 }
+  },
+  {
+    "googleMapsName": "Baldwin Park Public Library",
+    "name": "BALDWIN CNTY LIBR COOP",
+    "latitude": 34.0881897,
+    "longitude": -117.9653871,
+    "institutionSymbol": "AL5CW",
+    "institutionState": "AL",
+    "date": { "year": 2022, "month": 9 }
+  },
+  {
+    "googleMapsName": "Arkansas State University Beebe",
+    "name": "ARKANSAS STATE UNIV BEEBE",
+    "latitude": 35.0729706,
+    "longitude": -91.8962336,
+    "institutionSymbol": "AS4",
+    "institutionState": "AR",
+    "date": { "year": 2022, "month": 9 }
+  },
+  {
+    "googleMapsName": "Antelope Valley College",
+    "name": "ANTELOPE VAL COL LIBR",
+    "latitude": 34.6773241,
+    "longitude": -118.1866466,
+    "institutionSymbol": "AUV",
+    "institutionState": "CA",
+    "date": { "year": 2022, "month": 9 }
+  },
+  {
+    "googleMapsName": "Alaska State Library & Historical Collections",
+    "name": "ALASKA STATE LIBR",
+    "latitude": 58.3000711,
+    "longitude": -134.4153899,
+    "institutionSymbol": "ALK",
+    "institutionState": "AK",
+    "date": { "year": 2022, "month": 9 }
+  },
+  {
+    "googleMapsName": "Orbach Science Library",
+    "name": "ALMA COLL LIBR",
+    "latitude": 33.9745105,
+    "longitude": -117.3243778,
+    "institutionSymbol": "EZA",
+    "institutionState": "MI",
+    "date": { "year": 2022, "month": 9 }
+  },
+  {
+    "googleMapsName": "Baylor University",
+    "name": "BAYLOR UNIV",
+    "latitude": 31.5500848,
+    "longitude": -97.11354,
+    "institutionSymbol": "IYU",
+    "institutionState": "TX",
+    "date": { "year": 2022, "month": 9 }
+  },
+  {
+    "googleMapsName": "Bellingham Public Library - Central Branch",
+    "name": "BELLINGHAM PUB LIBR",
+    "latitude": 48.7540341,
+    "longitude": -122.4785629,
+    "institutionSymbol": "BLP",
+    "institutionState": "WA",
+    "date": { "year": 2022, "month": 9 }
+  }
+]

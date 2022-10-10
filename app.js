@@ -35,12 +35,7 @@ const extractDataFromCSV = () => {
 
 const fetchCoordinates = () => {
   // const sampleInfo = [
-  //   lendingLibraries[0]
-  // 'ALACHUA CNTY LIBR DIST'
-  // 'ALAMANCE CNTY PUB LIBRS',
-  // 'AMARILLO PUB LIBR',
   // 'ANACORTES PUB LIBR',
-  // 'ANCHORAGE PUB LIBR'
   // ];
 
   const sampleInfo = lendingLibraries.slice(0, 15);
@@ -48,8 +43,9 @@ const fetchCoordinates = () => {
     flags: 'a'
   });
 
-  writeStream.write('[');
+  // writeStream.write('[');
 
+  const libraryDetails = [];
   sampleInfo.forEach((library, index) => {
     client
       .findPlaceFromText({
@@ -75,14 +71,19 @@ const fetchCoordinates = () => {
           }
         };
         libraryDetails.push(locationData);
-        const fileContent = JSON.stringify(locationData);
+        if (index === sampleInfo.length - 1) {
+          console.log(library.name, 'The end!');
+          console.log(JSON.stringify(libraryDetails));
+          writeStream.write(JSON.stringify(libraryDetails));
+        }
+        // const fileContent = JSON.stringify(locationData);
         // TODO: This is not actually working anymore!
         // If the library is the last one in the array, close the array, otherwise add a comma
-        if (index === sampleInfo.length - 1) {
-          writeStream.write(fileContent + ']');
-        } else {
-          writeStream.write(fileContent + ',');
-        }
+        // if (index === sampleInfo.length - 1) {
+        //   writeStream.write(fileContent + ']');
+        // } else {
+        //   writeStream.write(fileContent + ',');
+        // }
       })
       .catch((e) => {
         console.log(e);
