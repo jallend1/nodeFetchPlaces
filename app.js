@@ -1,6 +1,7 @@
 // TODO: Store libraries and coordinates in a database
 // TODO: Check if the new library exists in the database
-// TODO: If it does not, fetch the coordinates and store them in the database
+// TODO: If it does not, fetch the coordinates and add it to the database
+// TODO: Incorporate state as a parameter for the fetch request
 
 const { config } = require('dotenv');
 const { Client } = require('@googlemaps/google-maps-services-js');
