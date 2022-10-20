@@ -63,7 +63,8 @@ const fetchCoordinates = () => {
           institutionState: library.institutionState,
           date: {
             year: 2022,
-            month: 9
+            month: 9,
+            requestsFilled: library.requestsFilled
           }
         };
         libraryDetails.push(locationData);
