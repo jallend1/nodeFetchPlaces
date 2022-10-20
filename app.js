@@ -10,7 +10,7 @@ const fs = require('fs');
 const { parse } = require('csv-parse');
 const states = require('./stateBias.json');
 
-console.log(states);
+console.log(states.findIndex((state) => state.name === 'Wyoming'));
 config();
 const lendingLibraries = [];
 
@@ -45,13 +45,21 @@ const fetchCoordinates = () => {
 
   const libraryDetails = [];
   sampleInfo.forEach((library, index) => {
+    let stateBias;
+    const targetState = states.find(
+      (state) => state.abbreviation === library.institutionState
+    );
+    targetState
+      ? (stateBias = [targetState['latitude'], targetState['longitude']])
+      : null;
     client
       .findPlaceFromText({
         params: {
           input: library.name,
           inputtype: 'textquery',
           fields: ['name', 'geometry'],
-          key: process.env.GOOGLE_API_KEY
+          key: process.env.GOOGLE_API_KEY,
+          locationbias: stateBias ? `point:${targetState}` : null
         },
         timeout: 1000
       })
