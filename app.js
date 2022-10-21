@@ -9,7 +9,7 @@ const { Client } = require('@googlemaps/google-maps-services-js');
 const client = new Client({});
 const fs = require('fs');
 const { parse } = require('csv-parse');
-const { states } = require('./assets/stateBias.json');
+const states = require('./assets/stateBias.json');
 const storedLibraries = require('./assets/storedLibraries.json');
 const lendingLibraries = [];
 
