@@ -1,4 +1,5 @@
 // TODO: Adjust CSV handling so it does not require any editing
+// TODO: Display dots on map based on number of requests filled
 // TODO: Store libraries and coordinates in a database
 // TODO: Check if the new library exists in the database
 // TODO: If it does not, fetch the coordinates and add it to the database
@@ -8,7 +9,8 @@ const { Client } = require('@googlemaps/google-maps-services-js');
 const client = new Client({});
 const fs = require('fs');
 const { parse } = require('csv-parse');
-const states = require('./assets/stateBias.json');
+const { states } = require('./assets/stateBias.json');
+const storedLibraries = require('./assets/storedLibraries.json');
 const lendingLibraries = [];
 
 config();
