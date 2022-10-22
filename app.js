@@ -38,9 +38,28 @@ const validateFile = () => {
   return args;
 };
 
-const extractDataFromCSV = (sourceFile) => {
+// Successfully extracts date from CSV, but does not yet incorporate it into the JSON object
+const extractDateFromCSV = (localDataSource) => {
+  fs.createReadStream(localDataSource)
+    .pipe(parse({ delimiter: '\t', from_line: 5, to_line: 5 }))
+    .on('data', (row) => {
+      const date = row[1].split(' ');
+      return {
+        month: date[0],
+        year: date[1]
+      };
+    })
+    .on('end', () => {
+      console.log('CSV successfully parsed');
+    });
+};
+
+const extractDataFromCSV = (localDataSource) => {
+  // const dataDate = extractDateFromCSV(sourceFile);
+  const dataDate = extractDateFromCSV(localDataSource);
+  console.log(dataDate);
   const convertedJSON = fs.createWriteStream('lendingLibraries.json');
-  fs.createReadStream(sourceFile)
+  fs.createReadStream(localDataSource)
     .pipe(parse({ delimiter: '\t', from_line: 14, relax_column_count: true }))
     .on('data', (row) => {
       // If library actually lent books, add to array
@@ -72,9 +91,6 @@ const checkIfLibraryExists = (library) => {
       year: 2022,
       requestsFilled: library.requestsFilled
     };
-    console.log('Its there!');
-    console.log(libraryExists);
-    console.log(library);
   } else {
     console.log('Not there!');
   }
@@ -139,4 +155,5 @@ const fetchCoordinates = () => {
   });
 };
 
-extractDataFromCSV(validateFile());
+const sourceFile = validateFile();
+extractDataFromCSV(sourceFile);
