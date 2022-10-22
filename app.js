@@ -1,4 +1,5 @@
 // TODO: Adjust CSV handling so it does not require any editing
+// TODO: Once CSV handling is adjusted, automatically extract date and year from CSV and add to checkIfLibraryExists
 // TODO: Display dots on map based on number of requests filled
 // TODO: Store libraries and coordinates in a database
 // TODO: Check if the new library exists in the database
@@ -32,9 +33,29 @@ const extractDataFromCSV = () => {
       }
     })
     .on('end', () => {
+      // TODO: Why am I writing this to a file? Was I planning on using it later?
       convertedJSON.write(JSON.stringify(lendingLibraries));
       fetchCoordinates();
     });
+};
+
+const checkIfLibraryExists = (library) => {
+  const libraryExists = storedLibraries.find((storedLibrary) => {
+    return storedLibrary.name === library.name;
+  });
+  if (libraryExists) {
+    // Hardcoding date until I update CSV handling
+    libraryExists.date = {
+      month: 'July',
+      year: 2022,
+      requestsFilled: library.requestsFilled
+    };
+    console.log('Its there!');
+    console.log(libraryExists);
+    console.log(library);
+  } else {
+    console.log('Not there!');
+  }
 };
 
 // Sets the location bias to the state of the library
@@ -58,6 +79,7 @@ const fetchCoordinates = () => {
 
   const libraryDetails = [];
   sampleInfo.forEach((library, index) => {
+    checkIfLibraryExists(library);
     const stateBias = determineLocationBias(library);
     client
       .findPlaceFromText({
