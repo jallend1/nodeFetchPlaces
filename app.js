@@ -18,8 +18,8 @@ config();
 
 const extractDataFromCSV = () => {
   const convertedJSON = fs.createWriteStream('lendingLibraries.json');
-  fs.createReadStream('./borrowing-sep-csv.csv')
-    .pipe(parse({ delimiter: ',', from_line: 2 }))
+  fs.createReadStream('./assets/sep.tsv')
+    .pipe(parse({ delimiter: '\t', from_line: 14, relax_column_count: true }))
     .on('data', (row) => {
       // If library actually lent books, add to array
       if (row[7] > 0) {
@@ -35,7 +35,8 @@ const extractDataFromCSV = () => {
     .on('end', () => {
       // TODO: Why am I writing this to a file? Was I planning on using it later?
       convertedJSON.write(JSON.stringify(lendingLibraries));
-      fetchCoordinates();
+      console.log(lendingLibraries);
+      // fetchCoordinates();
     });
 };
 

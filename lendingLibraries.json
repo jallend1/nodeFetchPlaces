@@ -1,183 +1,147 @@
 [
   {
-    "name": "ABILENE PUB LIBR",
-    "institutionSymbol": "TXB",
+    "name": "ALBUQUERQUE BERNALILLO CNTY LIBR",
+    "institutionSymbol": "QUE",
+    "institutionState": "NM",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "ALLEN CNTY PUB LIBR",
+    "institutionSymbol": "IMF",
+    "institutionState": "IN",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "ALOHA COM LIBR",
+    "institutionSymbol": "ALOHA",
+    "institutionState": "OR",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "ANACORTES PUB LIBR",
+    "institutionSymbol": "XFG",
+    "institutionState": "WA",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "ANGELO STATE UNIV",
+    "institutionSymbol": "ANG",
     "institutionState": "TX",
     "requestsFilled": "1"
   },
   {
-    "name": "ALASKA STATE LIBR",
-    "institutionSymbol": "ALK",
-    "institutionState": "AK",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "ALMA COLL LIBR",
-    "institutionSymbol": "EZA",
+    "name": "ANN ARBOR DIST LIBR",
+    "institutionSymbol": "EYH",
     "institutionState": "MI",
     "requestsFilled": "1"
   },
   {
-    "name": "ALTOONA AREA PUB LIBR",
-    "institutionSymbol": "AOP",
-    "institutionState": "PA",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "AMERICAN UNIV",
-    "institutionSymbol": "EAU",
-    "institutionState": "DC",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "AMES PUB LIBR",
-    "institutionSymbol": "UIB",
-    "institutionState": "IA",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "ANTELOPE VAL COL LIBR",
-    "institutionSymbol": "AUV",
-    "institutionState": "CA",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "APPALACHIAN SCH OF LAW LIBR",
-    "institutionSymbol": "A2Q",
-    "institutionState": "VA",
-    "requestsFilled": "1"
+    "name": "ANNE ARUNDEL CNTY PUB LIBR",
+    "institutionSymbol": "A2A",
+    "institutionState": "MD",
+    "requestsFilled": "2"
   },
   {
     "name": "ARAPAHOE LIBR DIST",
     "institutionSymbol": "CO2",
     "institutionState": "CO",
-    "requestsFilled": "1"
+    "requestsFilled": "2"
   },
   {
-    "name": "ARKANSAS STATE UNIV BEEBE",
-    "institutionSymbol": "AS4",
+    "name": "ARKANSAS STATE LIBR",
+    "institutionSymbol": "AST",
     "institutionState": "AR",
     "requestsFilled": "1"
   },
   {
-    "name": "AUGSBURG UNIV LINDELL LIBR",
-    "institutionSymbol": "MNA",
-    "institutionState": "MN",
+    "name": "ASTORIA PUB LIBR",
+    "institutionSymbol": "OOO",
+    "institutionState": "OR",
     "requestsFilled": "1"
   },
   {
-    "name": "AUSTIN PEAY STATE UNIV",
-    "institutionSymbol": "TPA",
-    "institutionState": "TN",
+    "name": "AURORA PUB LIBR",
+    "institutionSymbol": "JSE",
+    "institutionState": "IL",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "BANGOR PUB LIBR",
+    "institutionSymbol": "BYN",
+    "institutionState": "ME",
     "requestsFilled": "2"
   },
   {
-    "name": "BALDWIN CNTY LIBR COOP",
-    "institutionSymbol": "AL5CW",
-    "institutionState": "AL",
-    "requestsFilled": "2"
+    "name": "BARRINGTON AREA LIBR",
+    "institutionSymbol": "GK6",
+    "institutionState": "IL",
+    "requestsFilled": "1"
   },
   {
-    "name": "BAYLOR UNIV",
-    "institutionSymbol": "IYU",
+    "name": "BARTHOLOMEW CNTY PUB LIBR",
+    "institutionSymbol": "INB",
+    "institutionState": "IN",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "BASIL ANTHONY MOREAU MEM LIBR (BUDA PL)",
+    "institutionSymbol": "BUDAP",
     "institutionState": "TX",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "BEAVERTON CITY LIBR",
+    "institutionSymbol": "OXO",
+    "institutionState": "OR",
     "requestsFilled": "4"
   },
   {
     "name": "BELLINGHAM PUB LIBR",
     "institutionSymbol": "BLP",
     "institutionState": "WA",
-    "requestsFilled": "16"
-  },
-  {
-    "name": "BIG BEND COMMUN COL LIBR",
-    "institutionSymbol": "Z$3",
-    "institutionState": "WA",
     "requestsFilled": "1"
   },
   {
-    "name": "BIRMINGHAM-JEFFERSON PUB LIBR",
-    "institutionSymbol": "ABJ",
-    "institutionState": "AL",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "BLUE MOUNTAIN COMMUN COL LIBR",
-    "institutionSymbol": "BMT",
-    "institutionState": "OR",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "BLUFFTON UNIV",
-    "institutionSymbol": "BLC",
-    "institutionState": "OH",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "BOB JONES UNIV",
-    "institutionSymbol": "SGB",
-    "institutionState": "SC",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "BOISE PUB LIBR",
-    "institutionSymbol": "OEK",
-    "institutionState": "ID",
-    "requestsFilled": "3"
-  },
-  {
-    "name": "BOWDOIN COL",
-    "institutionSymbol": "BBH",
-    "institutionState": "ME",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "BRAZORIA CNTY LIBR SYST",
-    "institutionSymbol": "T7B",
+    "name": "BENBROOK PUB LIBR",
+    "institutionSymbol": "BENPL",
     "institutionState": "TX",
     "requestsFilled": "1"
   },
   {
-    "name": "BRIGHAM YOUNG UNIV IDAHO",
-    "institutionSymbol": "RIC",
-    "institutionState": "ID",
+    "name": "BETHLEHEM AREA PUB LIBR",
+    "institutionSymbol": "PBL",
+    "institutionState": "PA",
     "requestsFilled": "1"
   },
   {
-    "name": "BROADWATER SCH & COM LIBR",
-    "institutionSymbol": "YYK",
-    "institutionState": "MT",
+    "name": "BOSTON COL",
+    "institutionSymbol": "BXM",
+    "institutionState": "MA",
     "requestsFilled": "5"
   },
   {
-    "name": "BROOKLYN PUB LIBR",
-    "institutionSymbol": "BKL",
-    "institutionState": "NY",
+    "name": "BOZEMAN PUB LIBR",
+    "institutionSymbol": "MZG",
+    "institutionState": "MT",
     "requestsFilled": "1"
   },
   {
-    "name": "BRYN MAWR COL",
-    "institutionSymbol": "BMC",
-    "institutionState": "PA",
-    "requestsFilled": "1"
+    "name": "BRIGHAM YOUNG UNIV PROVO",
+    "institutionSymbol": "UBY",
+    "institutionState": "UT",
+    "requestsFilled": "12"
   },
   {
-    "name": "BUCKS CNTY FREE LIBR",
-    "institutionSymbol": "DPB",
-    "institutionState": "PA",
-    "requestsFilled": "1"
+    "name": "BROWARD CNTY LIBRS DIV",
+    "institutionSymbol": "FBR",
+    "institutionState": "FL",
+    "requestsFilled": "3"
   },
   {
     "name": "BUFFALO & ERIE CNTY PUB LIBR",
     "institutionSymbol": "VHB",
     "institutionState": "NY",
-    "requestsFilled": "3"
-  },
-  {
-    "name": "BUTTE CNTY LIBR",
-    "institutionSymbol": "JQI",
-    "institutionState": "CA",
-    "requestsFilled": "1"
+    "requestsFilled": "9"
   },
   {
     "name": "BUTTE-SILVER BOW PUB LIBR",
@@ -186,26 +150,14 @@
     "requestsFilled": "1"
   },
   {
-    "name": "CALDWELL PUB LIBR",
-    "institutionSymbol": "ZFR",
-    "institutionState": "ID",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "CALIFORNIA STATE UNIV FULLERTON",
-    "institutionSymbol": "CFI",
+    "name": "CALIFORNIA LUTHERAN UNIV",
+    "institutionSymbol": "CCT",
     "institutionState": "CA",
-    "requestsFilled": "2"
+    "requestsFilled": "1"
   },
   {
     "name": "CALIFORNIA STATE UNIV NORTHRIDGE",
     "institutionSymbol": "CNO",
-    "institutionState": "CA",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "CALIFORNIA STATE UNIV SAN BERNARDINO LI",
-    "institutionSymbol": "CSB",
     "institutionState": "CA",
     "requestsFilled": "1"
   },
@@ -213,91 +165,55 @@
     "name": "CALIFORNIA STATE UNIV-LONG BEACH LIBR",
     "institutionSymbol": "CLO",
     "institutionState": "CA",
-    "requestsFilled": "3"
-  },
-  {
-    "name": "CALIFORNIA STATE UNIV-SACRAMENTO LIBR",
-    "institutionSymbol": "CSA",
-    "institutionState": "CA",
     "requestsFilled": "1"
   },
   {
     "name": "CAMAS PUB LIBR",
     "institutionSymbol": "Z#6",
     "institutionState": "WA",
-    "requestsFilled": "5"
-  },
-  {
-    "name": "CAMPBELL CNTY PUB LIBR",
-    "institutionSymbol": "WYG",
-    "institutionState": "WY",
     "requestsFilled": "2"
   },
   {
-    "name": "CARROLL COLL",
-    "institutionSymbol": "MTC",
-    "institutionState": "MT",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "CASPER COL LIBR",
-    "institutionSymbol": "CWY",
-    "institutionState": "WY",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "CEDARVILLE UNIV",
-    "institutionSymbol": "CDC",
-    "institutionState": "OH",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "CENTRAL ARKANSAS LIBR SYST",
-    "institutionSymbol": "AKD",
-    "institutionState": "AR",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "CENTRAL CONNECTICUT STATE UNIV",
-    "institutionSymbol": "CTB",
-    "institutionState": "CT",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "CENTRAL MICHIGAN UNIV",
-    "institutionSymbol": "EZC",
-    "institutionState": "MI",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "CENTRAL OREGON COMMUN COL LIBR",
-    "institutionSymbol": "CEO",
+    "name": "CEDAR MILL COMMUN LIBR",
+    "institutionSymbol": "OXD",
     "institutionState": "OR",
-    "requestsFilled": "5"
+    "requestsFilled": "4"
   },
   {
     "name": "CENTRAL WASHINGTON UNIV LIBR",
     "institutionSymbol": "CWU",
     "institutionState": "WA",
-    "requestsFilled": "5"
-  },
-  {
-    "name": "CHAPMAN UNIV",
-    "institutionSymbol": "CCX",
-    "institutionState": "CA",
     "requestsFilled": "2"
   },
   {
-    "name": "CHEMEKETA COMMUN COL",
-    "institutionSymbol": "CHK",
-    "institutionState": "OR",
+    "name": "CENTURY COL",
+    "institutionSymbol": "LCO",
+    "institutionState": "MN",
     "requestsFilled": "1"
   },
   {
-    "name": "CHEMEKETA COOP REG LIBR SERV",
-    "institutionSymbol": "CHY",
-    "institutionState": "OR",
-    "requestsFilled": "5"
+    "name": "CHARLESTON CNTY LIBR",
+    "institutionSymbol": "SXC",
+    "institutionState": "SC",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "CHARLOTTE MECKLENBURG LIBR",
+    "institutionSymbol": "NPC",
+    "institutionState": "NC",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "CHATTAHOOCHEE VAL LIBRS",
+    "institutionSymbol": "GCV",
+    "institutionState": "GA",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "CHESTER CNTY LIBR & DIST CTR",
+    "institutionSymbol": "PWC",
+    "institutionState": "PA",
+    "requestsFilled": "2"
   },
   {
     "name": "CHICAGO PUB LIBR",
@@ -306,46 +222,40 @@
     "requestsFilled": "1"
   },
   {
+    "name": "CHOTEAU-TETON PUB LIBR",
+    "institutionSymbol": "YUV",
+    "institutionState": "MT",
+    "requestsFilled": "1"
+  },
+  {
     "name": "CITY OF COOS BAY-ESO",
     "institutionSymbol": "BAY",
     "institutionState": "OR",
-    "requestsFilled": "3"
+    "requestsFilled": "7"
   },
   {
-    "name": "CLARKSON UNIV LIBR",
-    "institutionSymbol": "VYT",
-    "institutionState": "NY",
+    "name": "COBB CNTY PUB LIBR SYST",
+    "institutionSymbol": "ZGJ",
+    "institutionState": "GA",
     "requestsFilled": "1"
   },
   {
-    "name": "CLATSOP COMMUN COL LIBR",
-    "institutionSymbol": "CLK",
-    "institutionState": "OR",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "COAL CITY PUB LIBR DIST",
-    "institutionSymbol": "OF9",
-    "institutionState": "IL",
+    "name": "COCHISE CNTY LIBR DIST",
+    "institutionSymbol": "BAZ",
+    "institutionState": "AZ",
     "requestsFilled": "1"
   },
   {
     "name": "COEUR D'ALENE PUB LIBR",
     "institutionSymbol": "ZVR",
     "institutionState": "ID",
-    "requestsFilled": "4"
+    "requestsFilled": "9"
   },
   {
-    "name": "COLLEGE OF DUPAGE LIBR",
-    "institutionSymbol": "IBI",
-    "institutionState": "IL",
+    "name": "COLLEGE OF NEW JERSEY, THE",
+    "institutionSymbol": "NJT",
+    "institutionState": "NJ",
     "requestsFilled": "1"
-  },
-  {
-    "name": "COLLEGE OF SOUTHERN IDAHO LIBR",
-    "institutionSymbol": "Y#6",
-    "institutionState": "ID",
-    "requestsFilled": "2"
   },
   {
     "name": "COLUMBIA CNTY RURAL LIBR",
@@ -354,57 +264,33 @@
     "requestsFilled": "1"
   },
   {
-    "name": "COLUMBUS METROP LIBR",
-    "institutionSymbol": "OCO",
-    "institutionState": "OH",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "COLUSA CNTY FREE LIBR",
-    "institutionSymbol": "CUP",
-    "institutionState": "CA",
-    "requestsFilled": "1"
-  },
-  {
     "name": "COMMUNITY LIBR NETWORK",
     "institutionSymbol": "K#T",
     "institutionState": "ID",
-    "requestsFilled": "5"
+    "requestsFilled": "1"
   },
   {
     "name": "COMMUNITY LIBR NETWORK@POST FALLS",
     "institutionSymbol": "P9F",
     "institutionState": "ID",
-    "requestsFilled": "7"
+    "requestsFilled": "2"
   },
   {
-    "name": "CONRAD PUB LIBR",
-    "institutionSymbol": "YUX",
-    "institutionState": "MT",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "COOK MEM PUB LIBR DIST",
-    "institutionSymbol": "JBI",
-    "institutionState": "IL",
+    "name": "CONCORDIA UNIV LIBR",
+    "institutionSymbol": "CDN",
+    "institutionState": "QC",
     "requestsFilled": "1"
   },
   {
     "name": "CORBAN UNIV LIBR",
     "institutionSymbol": "OOY",
     "institutionState": "OR",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "CORNERSTONE UNIV",
-    "institutionSymbol": "EXB",
-    "institutionState": "MI",
     "requestsFilled": "1"
   },
   {
-    "name": "COSUMNES RIVER COL",
-    "institutionSymbol": "CCR",
-    "institutionState": "CA",
+    "name": "CORNELIUS PUB LIBR",
+    "institutionSymbol": "OQU",
+    "institutionState": "OR",
     "requestsFilled": "1"
   },
   {
@@ -414,76 +300,58 @@
     "requestsFilled": "1"
   },
   {
-    "name": "CRAWFORD CNTY LIBR SYST",
-    "institutionSymbol": "C#L",
-    "institutionState": "AR",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "DALLAS PUB LIBR",
-    "institutionSymbol": "IGA",
+    "name": "COZBY LIBR & COM COMMONS",
+    "institutionSymbol": "WT2",
     "institutionState": "TX",
     "requestsFilled": "1"
   },
   {
-    "name": "DAVIESS CNTY PUB LIBR",
-    "institutionSymbol": "KOD",
-    "institutionState": "KY",
+    "name": "CRAB ORCHARD PUBL LIBR DIST",
+    "institutionSymbol": "YYO",
+    "institutionState": "IL",
     "requestsFilled": "1"
   },
   {
-    "name": "DEL MAR COLL",
-    "institutionSymbol": "CDM",
-    "institutionState": "TX",
+    "name": "CROOK CNTY LIBR",
+    "institutionSymbol": "CCLIB",
+    "institutionState": "OR",
+    "requestsFilled": "2"
+  },
+  {
+    "name": "CUNY THE GRAD CTR LIBR",
+    "institutionSymbol": "ZGM",
+    "institutionState": "NY",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "DAKOTA CNTY LIBR SYST",
+    "institutionSymbol": "DCB",
+    "institutionState": "MN",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "DANIEL BOONE REG LIBR",
+    "institutionSymbol": "ZAB",
+    "institutionState": "MO",
     "requestsFilled": "1"
   },
   {
     "name": "DELAWARE CNTY LIBR SYST",
     "institutionSymbol": "DEL",
     "institutionState": "PA",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "DENISON UNIV",
-    "institutionSymbol": "DNU",
-    "institutionState": "OH",
     "requestsFilled": "1"
   },
   {
     "name": "DENVER PUB LIBR",
     "institutionSymbol": "DPL",
     "institutionState": "CO",
-    "requestsFilled": "4"
-  },
-  {
-    "name": "DES MOINES AREA COMMUN COL",
-    "institutionSymbol": "JID",
-    "institutionState": "IA",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "DES MOINES PUB LIBR",
-    "institutionSymbol": "IOU",
-    "institutionState": "IA",
-    "requestsFilled": "1"
+    "requestsFilled": "2"
   },
   {
     "name": "DESCHUTES PUB LIBR",
     "institutionSymbol": "DCH",
     "institutionState": "OR",
-    "requestsFilled": "9"
-  },
-  {
-    "name": "DILLON CITY LIBR",
-    "institutionSymbol": "YZV",
-    "institutionState": "MT",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "DORDT UNIV",
-    "institutionSymbol": "IOT",
-    "institutionState": "IA",
-    "requestsFilled": "1"
+    "requestsFilled": "8"
   },
   {
     "name": "DOUGLAS CNTY LIBRS",
@@ -492,159 +360,93 @@
     "requestsFilled": "1"
   },
   {
-    "name": "DRAKE UNIV",
-    "institutionSymbol": "IOD",
-    "institutionState": "IA",
-    "requestsFilled": "1"
+    "name": "DOVER PUB LIBR",
+    "institutionSymbol": "DOV",
+    "institutionState": "DE",
+    "requestsFilled": "2"
   },
   {
-    "name": "EAGLE PUB LIBR",
-    "institutionSymbol": "E9G",
+    "name": "EAST BONNER CNTY LIBR",
+    "institutionSymbol": "E4B",
     "institutionState": "ID",
-    "requestsFilled": "2"
+    "requestsFilled": "4"
   },
   {
-    "name": "EAST CAROLINA UNIV",
-    "institutionSymbol": "ERE",
-    "institutionState": "NC",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "EASTERN NEW MEXICO UNIV MAIN CAM",
-    "institutionSymbol": "IPU",
-    "institutionState": "NM",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "EASTERN OREGON UNIV LIBR",
-    "institutionSymbol": "EOS",
-    "institutionState": "OR",
-    "requestsFilled": "8"
-  },
-  {
-    "name": "EASTERN WASHINGTON UNIV",
-    "institutionSymbol": "WEA",
-    "institutionState": "WA",
-    "requestsFilled": "20"
-  },
-  {
-    "name": "EMBRY-RIDDLE AERONAUTICAL UNIV DAYTONA",
-    "institutionSymbol": "FER",
-    "institutionState": "FL",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "EMMAUS BIBLE COL LIBR",
-    "institutionSymbol": "E9B",
-    "institutionState": "IA",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "EVANSVILLE VANDERBURGH PUB LIBR",
-    "institutionSymbol": "IEP",
-    "institutionState": "IN",
+    "name": "EVANSTON PUB LIBR",
+    "institutionSymbol": "IHE",
+    "institutionState": "IL",
     "requestsFilled": "1"
   },
   {
     "name": "EVERETT PUB LIBR",
     "institutionSymbol": "UAI",
     "institutionState": "WA",
-    "requestsFilled": "1"
+    "requestsFilled": "10"
   },
   {
-    "name": "FERRIS STATE UNIV",
-    "institutionSymbol": "EZF",
-    "institutionState": "MI",
-    "requestsFilled": "1"
+    "name": "FAIRBANKS N STAR BOROUGH LIBR",
+    "institutionSymbol": "X#4",
+    "institutionState": "AK",
+    "requestsFilled": "3"
   },
   {
-    "name": "FLAGLER COLL ST AUGUSTINE",
-    "institutionSymbol": "FFC",
-    "institutionState": "FL",
+    "name": "FINDLAY HANCOCK PUB LIBR",
+    "institutionSymbol": "FPL",
+    "institutionState": "OH",
     "requestsFilled": "1"
   },
   {
     "name": "FLAGSTAFF CITY, COCONINO CNTY LIBR",
     "institutionSymbol": "AZH",
     "institutionState": "AZ",
-    "requestsFilled": "3"
-  },
-  {
-    "name": "FLORIDA ATLANTIC UNIV",
-    "institutionSymbol": "FGM",
-    "institutionState": "FL",
     "requestsFilled": "1"
   },
   {
-    "name": "FONTBONNE UNIV",
-    "institutionSymbol": "MOF",
-    "institutionState": "MO",
+    "name": "FOREST GROVE PUB LIBR",
+    "institutionSymbol": "ORI",
+    "institutionState": "OR",
     "requestsFilled": "1"
+  },
+  {
+    "name": "FOREST PARK PUB LIBR",
+    "institutionSymbol": "TO9",
+    "institutionState": "IL",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "FORSYTH CNTY PUB LIBR",
+    "institutionSymbol": "Y32",
+    "institutionState": "GA",
+    "requestsFilled": "2"
   },
   {
     "name": "FORT BEND CNTY LIBRS",
     "institutionSymbol": "FTX",
     "institutionState": "TX",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "FORT LEWIS COL",
-    "institutionSymbol": "CDF",
-    "institutionState": "CO",
-    "requestsFilled": "3"
-  },
-  {
-    "name": "FORT PECK COMMUN COL, TRIBAL LIBR",
-    "institutionSymbol": "YNQ",
-    "institutionState": "MT",
-    "requestsFilled": "1"
+    "requestsFilled": "2"
   },
   {
     "name": "FORT VANCOUVER REG LIBR",
     "institutionSymbol": "YEP",
     "institutionState": "WA",
-    "requestsFilled": "7"
+    "requestsFilled": "4"
   },
   {
-    "name": "FORT WORTH PUB LIBR",
-    "institutionSymbol": "IFA",
-    "institutionState": "TX",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "FRANKLIN PARK PUB LIBR DIST",
-    "institutionSymbol": "JZD",
+    "name": "FRANKFORT PUB LIBR DIST",
+    "institutionSymbol": "TM3",
     "institutionState": "IL",
     "requestsFilled": "1"
   },
   {
-    "name": "FRENCHTOWN SCH DIST",
-    "institutionSymbol": "FNF",
-    "institutionState": "MT",
-    "requestsFilled": "1"
+    "name": "GEAUGA CNTY PUB LIBR",
+    "institutionSymbol": "GEC",
+    "institutionState": "OH",
+    "requestsFilled": "6"
   },
   {
-    "name": "GAIL BORDEN PUB LIBR DIST",
-    "institutionSymbol": "IF9",
+    "name": "GENEVA PUB LIBR DIST",
+    "institutionSymbol": "JSY",
     "institutionState": "IL",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "GARDEN CITY LIBR",
-    "institutionSymbol": "ZRQ",
-    "institutionState": "ID",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "GARFIELD CNTY LIBRS",
-    "institutionSymbol": "GCQ",
-    "institutionState": "CO",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "GATESVILLE PUB LIBR",
-    "institutionSymbol": "G4Z",
-    "institutionState": "TX",
     "requestsFilled": "1"
   },
   {
@@ -660,94 +462,118 @@
     "requestsFilled": "2"
   },
   {
-    "name": "GOUCHER COL",
-    "institutionSymbol": "GOC",
-    "institutionState": "MD",
+    "name": "GLENVIEW PUB LIBR",
+    "institutionSymbol": "FM0",
+    "institutionState": "IL",
     "requestsFilled": "1"
   },
   {
-    "name": "GRAYS HARBOR COL",
-    "institutionSymbol": "Z#3",
+    "name": "GONZAGA UNIV",
+    "institutionSymbol": "WUG",
     "institutionState": "WA",
     "requestsFilled": "1"
   },
   {
-    "name": "GREAT NECK LIBR",
-    "institutionSymbol": "NBT",
-    "institutionState": "NY",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "GRINNELL COL",
-    "institutionSymbol": "IOG",
-    "institutionState": "IA",
+    "name": "GOSHEN COLL LIBR",
+    "institutionSymbol": "IGC",
+    "institutionState": "IN",
     "requestsFilled": "1"
   },
   {
-    "name": "GUYMON PUB LIBR",
-    "institutionSymbol": "GPL",
-    "institutionState": "OK",
+    "name": "GRACE A DOW MEM LIBR",
+    "institutionSymbol": "GDM",
+    "institutionState": "MI",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "GREAT RIVER REG LIBR",
+    "institutionSymbol": "GRR",
+    "institutionState": "MN",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "GREENE CNTY PUB LIBR",
+    "institutionSymbol": "GRC",
+    "institutionState": "OH",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "GREENVILLE CNTY LIBR",
+    "institutionSymbol": "SGR",
+    "institutionState": "SC",
     "requestsFilled": "1"
   },
   {
     "name": "HANSEN COMMUN LIBR",
     "institutionSymbol": "HANCL",
     "institutionState": "ID",
-    "requestsFilled": "2"
+    "requestsFilled": "1"
   },
   {
     "name": "HARRIS CNTY PUB LIBR",
     "institutionSymbol": "HT#",
     "institutionState": "TX",
+    "requestsFilled": "4"
+  },
+  {
+    "name": "HARVARD UNIV",
+    "institutionSymbol": "HUL",
+    "institutionState": "MA",
     "requestsFilled": "3"
   },
   {
-    "name": "HAYNER PUB LIBR DIST",
-    "institutionSymbol": "IK2",
-    "institutionState": "IL",
+    "name": "HELEN HALL LIBR",
+    "institutionSymbol": "T7L",
+    "institutionState": "TX",
     "requestsFilled": "1"
   },
   {
-    "name": "HENDERSON STATE UNIV",
-    "institutionSymbol": "AKH",
-    "institutionState": "AR",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "HERITAGE UNIV",
-    "institutionSymbol": "H5I",
-    "institutionState": "WA",
+    "name": "HENNEPIN CNTY LIBR",
+    "institutionSymbol": "HCO",
+    "institutionState": "MN",
     "requestsFilled": "1"
   },
   {
     "name": "HIGH PLAINS LIBR DIST",
     "institutionSymbol": "SO$",
     "institutionState": "CO",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "HIGHLAND COM COLL LIBR",
-    "institutionSymbol": "IJW",
-    "institutionState": "IL",
     "requestsFilled": "1"
   },
   {
-    "name": "HIGHLINE COLL LIBR",
-    "institutionSymbol": "UOI",
-    "institutionState": "WA",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "HINSDALE PUB LIBR",
-    "institutionSymbol": "TL9",
-    "institutionState": "IL",
+    "name": "HIGHLAND CITY LIBR",
+    "institutionSymbol": "HGHLN",
+    "institutionState": "UT",
     "requestsFilled": "1"
   },
   {
-    "name": "HOUSTON BAPTIST UNIV LIBR",
-    "institutionSymbol": "TWH",
-    "institutionState": "TX",
+    "name": "HILLSBORO PUB LIBR",
+    "institutionSymbol": "OOV",
+    "institutionState": "OR",
+    "requestsFilled": "5"
+  },
+  {
+    "name": "HILLSDALE COL, MOSSEY LIBR",
+    "institutionSymbol": "EEI",
+    "institutionState": "MI",
     "requestsFilled": "1"
+  },
+  {
+    "name": "HOFSTRA UNIV",
+    "institutionSymbol": "ZIH",
+    "institutionState": "NY",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "HORRY CNTY MEM LIBR",
+    "institutionSymbol": "SHM",
+    "institutionState": "SC",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "HOUGHTON COLL",
+    "institutionSymbol": "VXO",
+    "institutionState": "NY",
+    "requestsFilled": "3"
   },
   {
     "name": "HOUSTON PUB LIBR",
@@ -756,44 +582,14 @@
     "requestsFilled": "2"
   },
   {
-    "name": "HOWARD CNTY LIBR",
-    "institutionSymbol": "HWARD",
-    "institutionState": "TX",
-    "requestsFilled": "1"
-  },
-  {
     "name": "HUMBOLDT CNTY LIBR",
     "institutionSymbol": "EHU",
     "institutionState": "CA",
     "requestsFilled": "1"
   },
   {
-    "name": "HUTCHINSON PUB LIBR",
-    "institutionSymbol": "KAH",
-    "institutionState": "KS",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "IDAHO FALLS PUB LIBR",
-    "institutionSymbol": "I4F",
-    "institutionState": "ID",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "IDAHO STATE UNIV LIBR",
-    "institutionSymbol": "ONB",
-    "institutionState": "ID",
-    "requestsFilled": "3"
-  },
-  {
-    "name": "ILLINOIS PRAIRIE DIST PUB LIBR",
-    "institutionSymbol": "IEQ",
-    "institutionState": "IL",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "ILLINOIS STATE LIBR",
-    "institutionSymbol": "SPI",
+    "name": "HUNTLEY AREA PUB LIBR DIST",
+    "institutionSymbol": "GL7",
     "institutionState": "IL",
     "requestsFilled": "1"
   },
@@ -804,98 +600,152 @@
     "requestsFilled": "1"
   },
   {
+    "name": "INDIAN TRAILS PUB LIBR DIST",
+    "institutionSymbol": "JAG",
+    "institutionState": "IL",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "INDIANA ST LIB",
+    "institutionSymbol": "SHARE",
+    "institutionState": "IN",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "INDIANAPOLIS PUB LIBR",
+    "institutionSymbol": "IMD",
+    "institutionState": "IN",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "IOWA CITY PUB LIBR",
+    "institutionSymbol": "LXY",
+    "institutionState": "IA",
+    "requestsFilled": "2"
+  },
+  {
+    "name": "IOWA STATE UNIV",
+    "institutionSymbol": "IWA",
+    "institutionState": "IA",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "IRENE INGLE PUB LIBR",
+    "institutionSymbol": "I@I",
+    "institutionState": "AK",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "IRON CNTY BOOKMOBILE LIBR",
+    "institutionSymbol": "UTIRN",
+    "institutionState": "UT",
+    "requestsFilled": "1"
+  },
+  {
     "name": "IRVING PUB LIBR SYST",
     "institutionSymbol": "IJC",
     "institutionState": "TX",
-    "requestsFilled": "2"
+    "requestsFilled": "1"
   },
   {
     "name": "JACKSON CNTY LIBR SVC",
     "institutionSymbol": "JCL",
     "institutionState": "OR",
-    "requestsFilled": "15"
+    "requestsFilled": "10"
   },
   {
-    "name": "JACKSON/HINDS LIBR SYST",
-    "institutionSymbol": "MJP",
-    "institutionState": "MS",
+    "name": "JAMES MADISON UNIV LIBRS",
+    "institutionSymbol": "VMC",
+    "institutionState": "VA",
     "requestsFilled": "1"
   },
   {
-    "name": "JEFFERSON CNTY LIBR",
-    "institutionSymbol": "MJ8",
-    "institutionState": "MO",
+    "name": "JAMES V BROWN LIBR",
+    "institutionSymbol": "JVB",
+    "institutionState": "PA",
     "requestsFilled": "1"
   },
   {
     "name": "JEFFERSON CNTY PUB LIBR",
     "institutionSymbol": "QQ3",
     "institutionState": "CO",
-    "requestsFilled": "1"
+    "requestsFilled": "4"
   },
   {
     "name": "JEFFERSON PARISH LIBR",
     "institutionSymbol": "LMJ",
     "institutionState": "LA",
-    "requestsFilled": "3"
+    "requestsFilled": "1"
+  },
+  {
+    "name": "JEROME PUB LIBR",
+    "institutionSymbol": "J@R",
+    "institutionState": "ID",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "JOHNSON & WALES UNIV PROVIDENCE LIBR",
+    "institutionSymbol": "PJW",
+    "institutionState": "RI",
+    "requestsFilled": "1"
   },
   {
     "name": "JOHNSON CNTY LIBR",
     "institutionSymbol": "KNJ",
     "institutionState": "KS",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "K.O. LEE ABERDEEN PUB LIBRARY.",
-    "institutionSymbol": "AML",
-    "institutionState": "SD",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "KANSAS CITY PUB LIBR",
-    "institutionSymbol": "KCP",
-    "institutionState": "MO",
     "requestsFilled": "2"
   },
   {
-    "name": "KEARNEY PUB LIBR",
-    "institutionSymbol": "KPL",
-    "institutionState": "NE",
+    "name": "JOHNSON CNTY PUB LIBR",
+    "institutionSymbol": "KH4",
+    "institutionState": "KY",
     "requestsFilled": "1"
   },
   {
-    "name": "KENT STATE UNIV",
-    "institutionSymbol": "KSU",
-    "institutionState": "OH",
+    "name": "JOINT BASE ELMENDORF-RICHARDSON LIBR",
+    "institutionSymbol": "AYI",
+    "institutionState": "AK",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "JOINT BASE LEWIS-MCCHORD LIBRARY SYSTEM",
+    "institutionSymbol": "AVW",
+    "institutionState": "WA",
+    "requestsFilled": "2"
+  },
+  {
+    "name": "JOPLIN PUB LIBR",
+    "institutionSymbol": "MQY",
+    "institutionState": "MO",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "KETCHIKAN PUB LIBR",
+    "institutionSymbol": "Q2Z",
+    "institutionState": "AK",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "KIMBALL JUNCTION BRANCH SUMMIT CNTY LIBR",
+    "institutionSymbol": "SUMCL",
+    "institutionState": "UT",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "KIMBERLY PUB LIBR",
+    "institutionSymbol": "KIMPL",
+    "institutionState": "ID",
     "requestsFilled": "1"
   },
   {
     "name": "KITSAP REG LIBR",
     "institutionSymbol": "YEQ",
     "institutionState": "WA",
-    "requestsFilled": "27"
+    "requestsFilled": "38"
   },
   {
-    "name": "KUNA LIBR DIST",
-    "institutionSymbol": "K#U",
-    "institutionState": "ID",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "LAKE CNTY PUB LIBR",
-    "institutionSymbol": "ILC",
-    "institutionState": "IN",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "LAMAR UNIV",
-    "institutionSymbol": "TXR",
-    "institutionState": "TX",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "LANE COMMUN COL",
-    "institutionSymbol": "OLE",
+    "name": "KLAMATH CNTY LIBR SERV DIST",
+    "institutionSymbol": "KCL",
     "institutionState": "OR",
     "requestsFilled": "7"
   },
@@ -903,103 +753,73 @@
     "name": "LAS VEGAS CLARK CNTY LIBR DIST",
     "institutionSymbol": "NVC",
     "institutionState": "NV",
-    "requestsFilled": "3"
-  },
-  {
-    "name": "LATAH CNTY LIBR DIST",
-    "institutionSymbol": "ZWR",
-    "institutionState": "ID",
-    "requestsFilled": "4"
+    "requestsFilled": "1"
   },
   {
     "name": "LAWRENCE PUB LIBR",
     "institutionSymbol": "KSA",
     "institutionState": "KS",
-    "requestsFilled": "1"
+    "requestsFilled": "2"
   },
   {
     "name": "LEE CNTY LIBR SYST",
     "institutionSymbol": "FFL",
     "institutionState": "FL",
-    "requestsFilled": "1"
+    "requestsFilled": "2"
+  },
+  {
+    "name": "LEROY COLLINS LEON CNTY PUB LIBR",
+    "institutionSymbol": "FTL",
+    "institutionState": "FL",
+    "requestsFilled": "2"
   },
   {
     "name": "LEWIS & CLARK COL",
     "institutionSymbol": "OLP",
     "institutionState": "OR",
-    "requestsFilled": "3"
+    "requestsFilled": "1"
   },
   {
     "name": "LEWIS & CLARK LIBR",
-    "institutionSymbol": "MZI",
+    "institutionSymbol": "LQN",
     "institutionState": "MT",
     "requestsFilled": "1"
   },
   {
-    "name": "LEWISTON CITY LIBR",
-    "institutionSymbol": "IDLEW",
-    "institutionState": "ID",
-    "requestsFilled": "1"
+    "name": "LIBERTY LAKE MUNICIPAL LIB",
+    "institutionSymbol": "LIBLM",
+    "institutionState": "WA",
+    "requestsFilled": "2"
   },
   {
     "name": "LIBRARIES IN CLACKAMAS CNTY",
     "institutionSymbol": "LIQ",
     "institutionState": "OR",
-    "requestsFilled": "57"
+    "requestsFilled": "9"
   },
   {
-    "name": "LILLIE M EVANS LIBR DIST",
-    "institutionSymbol": "ISQ",
-    "institutionState": "IL",
+    "name": "LICKING CNTY LIBR",
+    "institutionSymbol": "ONW",
+    "institutionState": "OH",
     "requestsFilled": "1"
   },
   {
     "name": "LINCOLN CNTY LIBR DIST",
     "institutionSymbol": "LCS",
     "institutionState": "OR",
-    "requestsFilled": "12"
-  },
-  {
-    "name": "LINFIELD UNIV MCMINNVILLE CAM LIBR",
-    "institutionSymbol": "OLC",
-    "institutionState": "OR",
-    "requestsFilled": "9"
-  },
-  {
-    "name": "LIVINGSTON PARK CNTY PUB LIBR",
-    "institutionSymbol": "LVQ",
-    "institutionState": "MT",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "LOGAN LIBR",
-    "institutionSymbol": "UUD",
-    "institutionState": "UT",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "LOGAN UNIV",
-    "institutionSymbol": "MU9",
-    "institutionState": "MO",
     "requestsFilled": "1"
   },
   {
-    "name": "LONE STAR COLLEGE SYSTEM",
-    "institutionSymbol": "NHA",
-    "institutionState": "TX",
+    "name": "LONGMONT PUB LIBR",
+    "institutionSymbol": "CNL",
+    "institutionState": "CO",
     "requestsFilled": "1"
   },
   {
-    "name": "LONGVIEW PUB LIBR",
-    "institutionSymbol": "FT6",
-    "institutionState": "TX",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "LOS ALAMOS CNTY LIBR SYST",
-    "institutionSymbol": "LAN",
-    "institutionState": "NM",
-    "requestsFilled": "1"
+    "name": "LOPEZ ISLAND LIBR",
+    "institutionSymbol": "Z67",
+    "institutionState": "WA",
+    "requestsFilled": "4"
   },
   {
     "name": "LOUISVILLE FREE PUB LIBR",
@@ -1008,237 +828,129 @@
     "requestsFilled": "1"
   },
   {
-    "name": "LOYOLA UNIV OF CHICAGO",
-    "institutionSymbol": "IAL",
-    "institutionState": "IL",
+    "name": "MAINE STATE LIBRARY",
+    "institutionSymbol": "MEA",
+    "institutionState": "ME",
     "requestsFilled": "1"
   },
   {
-    "name": "LUBBOCK PUB LIBR",
-    "institutionSymbol": "TXL",
-    "institutionState": "TX",
-    "requestsFilled": "5"
-  },
-  {
-    "name": "MARICOPA COMMUN COL DIST",
-    "institutionSymbol": "PMD",
-    "institutionState": "AZ",
+    "name": "MANATEE CNTY PUB LIBR SYST",
+    "institutionSymbol": "FMA",
+    "institutionState": "FL",
     "requestsFilled": "2"
   },
   {
-    "name": "MARION CARNEGIE LIBR",
-    "institutionSymbol": "UW3",
-    "institutionState": "IL",
+    "name": "MARION CNTY LIBR SUBDISTRICT #1",
+    "institutionSymbol": "WZ9",
+    "institutionState": "MO",
     "requestsFilled": "1"
   },
   {
     "name": "MARSHALL PUB LIBR",
     "institutionSymbol": "Q6J",
     "institutionState": "ID",
-    "requestsFilled": "10"
-  },
-  {
-    "name": "MARYLAND INST COL OF ART",
-    "institutionSymbol": "MYA",
-    "institutionState": "MD",
     "requestsFilled": "1"
   },
   {
-    "name": "MERCED COLL LIBR",
-    "institutionSymbol": "UOO",
-    "institutionState": "CA",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "MERCER CNTY COMMUN COL",
-    "institutionSymbol": "MRR",
-    "institutionState": "NJ",
+    "name": "MCGILL UNIV",
+    "institutionSymbol": "LGG",
+    "institutionState": "QC",
     "requestsFilled": "1"
   },
   {
     "name": "MERIDIAN LIBR DIST",
     "institutionSymbol": "ZPJ",
     "institutionState": "ID",
-    "requestsFilled": "2"
+    "requestsFilled": "3"
   },
   {
-    "name": "METROPOLITAN LIBR SYST",
-    "institutionSymbol": "OKE",
-    "institutionState": "OK",
-    "requestsFilled": "3"
+    "name": "MESSENGER PUB LIBR OF N AURORA",
+    "institutionSymbol": "TYV",
+    "institutionState": "IL",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "MIAMI UNIV",
+    "institutionSymbol": "MIA",
+    "institutionState": "OH",
+    "requestsFilled": "1"
   },
   {
     "name": "MID-CONTINENT PUB LIBR",
     "institutionSymbol": "CMI",
     "institutionState": "MO",
-    "requestsFilled": "2"
+    "requestsFilled": "14"
   },
   {
-    "name": "MID-HUDSON LIBR SYST",
-    "institutionSymbol": "VFO",
-    "institutionState": "NY",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "MIDLAND CNTY PUB LIBR",
-    "institutionSymbol": "MCY",
-    "institutionState": "TX",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "MIDWESTERN STATE UNIV, G MOFFETT LIBR",
-    "institutionSymbol": "TMI",
-    "institutionState": "TX",
-    "requestsFilled": "3"
-  },
-  {
-    "name": "MILWAUKEE SCH OF ENGIN LIBR",
-    "institutionSymbol": "WLD",
-    "institutionState": "WI",
+    "name": "MIDDLE TENNESSEE STATE UNIV",
+    "institutionSymbol": "TXM",
+    "institutionState": "TN",
     "requestsFilled": "1"
   },
   {
     "name": "MISSOULA PUB LIBR",
     "institutionSymbol": "Y38",
     "institutionState": "MT",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "MOBILE PUB LIBR",
-    "institutionSymbol": "AMP",
-    "institutionState": "AL",
     "requestsFilled": "1"
   },
   {
-    "name": "MONROE CNTY PUB LIBR",
-    "institutionSymbol": "IMR",
-    "institutionState": "IN",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "MONTANA BIBLE COL",
-    "institutionSymbol": "MTBCL",
-    "institutionState": "MT",
+    "name": "MONMOUTH UNIV LIBR",
+    "institutionSymbol": "MMT",
+    "institutionState": "NJ",
     "requestsFilled": "1"
-  },
-  {
-    "name": "MONTANA STATE UNIV BILLINGS LIBR",
-    "institutionSymbol": "EM2",
-    "institutionState": "MT",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "MONTANA STATE UNIV, MSU LIBR",
-    "institutionSymbol": "MZF",
-    "institutionState": "MT",
-    "requestsFilled": "2"
   },
   {
     "name": "MONTEREY CNTY FREE LIBRS",
     "institutionSymbol": "JRB",
     "institutionState": "CA",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "MONTGOMERY CNTY MEM LIBR SYST",
-    "institutionSymbol": "QS2",
-    "institutionState": "TX",
     "requestsFilled": "1"
   },
   {
-    "name": "MONTROSE REGIONAL LIBR DIST",
-    "institutionSymbol": "RS$",
-    "institutionState": "CO",
+    "name": "MONTGOMERY CNTY, NORRISTOWN PUB LIBR",
+    "institutionSymbol": "MNL",
+    "institutionState": "PA",
     "requestsFilled": "1"
   },
   {
-    "name": "MOODY BIBLE INST LIBR",
-    "institutionSymbol": "JBT",
-    "institutionState": "IL",
-    "requestsFilled": "3"
-  },
-  {
-    "name": "MORTON PUB LIBR DIST",
-    "institutionSymbol": "IST",
-    "institutionState": "IL",
+    "name": "MOUNTAIN HOME PUB LIBR",
+    "institutionSymbol": "MTHPL",
+    "institutionState": "ID",
     "requestsFilled": "1"
   },
   {
-    "name": "MOUNT ANGEL ABBEY LIBR",
-    "institutionSymbol": "MAA",
+    "name": "MULTNOMAH CNTY LIBR",
+    "institutionSymbol": "ORX",
     "institutionState": "OR",
-    "requestsFilled": "8"
+    "requestsFilled": "19"
   },
   {
-    "name": "MOUNT SAINT MARYS UNIV LOS ANGELES",
-    "institutionSymbol": "CMM",
-    "institutionState": "CA",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "MT HOOD COM COLL LIBR",
-    "institutionSymbol": "MHD",
-    "institutionState": "OR",
-    "requestsFilled": "9"
-  },
-  {
-    "name": "MULTNOMAH UNIV",
-    "institutionSymbol": "MLH",
-    "institutionState": "OR",
-    "requestsFilled": "9"
-  },
-  {
-    "name": "MUNICIPAL LIBR CONSORTIUM ST LOUIS CNTY",
-    "institutionSymbol": "ZAG",
-    "institutionState": "MO",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "NASHVILLE PUB LIBR",
-    "institutionSymbol": "TNN",
-    "institutionState": "TN",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "NATIONAL GALLERY OF ART LIBR",
-    "institutionSymbol": "NGA",
-    "institutionState": "DC",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "NAVAL WAR COLL LIBR",
-    "institutionSymbol": "WNC",
-    "institutionState": "RI",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "NEILL PUB LIBR",
-    "institutionSymbol": "XRR",
-    "institutionState": "WA",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "NEW ORLEANS PUB LIBR",
-    "institutionSymbol": "LNC",
-    "institutionState": "LA",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "NEW SCH THE",
-    "institutionSymbol": "ZMU",
+    "name": "NASSAU LIBR SYST",
+    "institutionSymbol": "NAB",
     "institutionState": "NY",
     "requestsFilled": "1"
   },
   {
-    "name": "NEW YORK SOC LIBR",
-    "institutionSymbol": "ZNS",
-    "institutionState": "NY",
+    "name": "NEBRASKA DEPT OF CORR SERV",
+    "institutionSymbol": "WH5",
+    "institutionState": "NE",
     "requestsFilled": "1"
   },
   {
-    "name": "NEWPORT BEACH PUB LIBR",
-    "institutionSymbol": "CNB",
-    "institutionState": "CA",
+    "name": "NEW CASTLE PUB LIBR",
+    "institutionSymbol": "QNC",
+    "institutionState": "PA",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "NEW JERSEY ILL ACCESS CTR",
+    "institutionSymbol": "NJQ",
+    "institutionState": "NJ",
+    "requestsFilled": "4"
+  },
+  {
+    "name": "NEW YORK PUB LIBR",
+    "institutionSymbol": "NYP",
+    "institutionState": "NY",
     "requestsFilled": "1"
   },
   {
@@ -1248,81 +960,51 @@
     "requestsFilled": "4"
   },
   {
-    "name": "NICHOLSON MEM LIBR",
-    "institutionSymbol": "NM$",
-    "institutionState": "TX",
-    "requestsFilled": "1"
-  },
-  {
     "name": "NORFOLK PUB LIBR",
     "institutionSymbol": "TWE",
     "institutionState": "VA",
     "requestsFilled": "1"
   },
   {
-    "name": "NORMANDALE COM COLL LIBR",
-    "institutionSymbol": "NOR",
-    "institutionState": "MN",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "NORTH CENTRAL WASHINGTON LIBRARIES",
-    "institutionSymbol": "OEI",
-    "institutionState": "WA",
+    "name": "NORTH DAKOTA STATE LIBR",
+    "institutionSymbol": "NDS",
+    "institutionState": "ND",
     "requestsFilled": "2"
-  },
-  {
-    "name": "NORTH IDAHO COLL",
-    "institutionSymbol": "XFH",
-    "institutionState": "ID",
-    "requestsFilled": "6"
   },
   {
     "name": "NORTH OLYMPIC LIBR SYST",
     "institutionSymbol": "NOQ",
     "institutionState": "WA",
+    "requestsFilled": "9"
+  },
+  {
+    "name": "NORTH PLAINS PUB LIBR",
+    "institutionSymbol": "NOPPL",
+    "institutionState": "OR",
     "requestsFilled": "1"
   },
   {
-    "name": "NORTH PARK UNIV LIBR",
-    "institutionSymbol": "ICZ",
+    "name": "NORTH SUBURBAN PUB LIBR DIST ROSCOE BR",
+    "institutionSymbol": "I#X",
     "institutionState": "IL",
     "requestsFilled": "1"
-  },
-  {
-    "name": "NORTHBROOK PUB LIBR",
-    "institutionSymbol": "INO",
-    "institutionState": "IL",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "NORTHERN ILLINOIS UNIV",
-    "institutionSymbol": "JNA",
-    "institutionState": "IL",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "NORTHWEST UNIV",
-    "institutionSymbol": "HNW",
-    "institutionState": "WA",
-    "requestsFilled": "3"
   },
   {
     "name": "OC PUBLIC LIBRARIES",
     "institutionSymbol": "ORK",
     "institutionState": "CA",
+    "requestsFilled": "2"
+  },
+  {
+    "name": "OCCIDENTAL COL LIBR",
+    "institutionSymbol": "CCO",
+    "institutionState": "CA",
     "requestsFilled": "1"
   },
   {
-    "name": "OHIO HIST CONNECTION",
-    "institutionSymbol": "OHT",
+    "name": "OHIO UNIV",
+    "institutionSymbol": "OUN",
     "institutionState": "OH",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "OKLAHOMA DEPT OF LIBR",
-    "institutionSymbol": "OKD",
-    "institutionState": "OK",
     "requestsFilled": "1"
   },
   {
@@ -1332,106 +1014,88 @@
     "requestsFilled": "1"
   },
   {
-    "name": "OKLAHOMA STATE UNIV OKLAHOMA CITY LIBR",
-    "institutionSymbol": "OUJ",
-    "institutionState": "OK",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "OLD DOMINION UNIV",
-    "institutionSymbol": "VOD",
-    "institutionState": "VA",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "OLYMPIC COL",
-    "institutionSymbol": "Z84",
-    "institutionState": "WA",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "ONONDAGA CNTY PUB LIBR",
-    "institutionSymbol": "YVO",
-    "institutionState": "NY",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "ONONDAGA COMMUN COL",
-    "institutionSymbol": "VOC",
-    "institutionState": "NY",
+    "name": "OLATHE PUB LIBR",
+    "institutionSymbol": "KOP",
+    "institutionState": "KS",
     "requestsFilled": "1"
   },
   {
     "name": "ORCAS ISLAND LIBR DIST",
     "institutionSymbol": "Z66",
     "institutionState": "WA",
-    "requestsFilled": "3"
+    "requestsFilled": "9"
   },
   {
-    "name": "OREGON COLL OF ORIENTAL MED",
-    "institutionSymbol": "OCORM",
+    "name": "OREGON HEALTH & SCI UNIV",
+    "institutionSymbol": "OHS",
     "institutionState": "OR",
     "requestsFilled": "1"
   },
   {
-    "name": "OREGON INST OF TECHNOL LIBR",
-    "institutionSymbol": "OIT",
+    "name": "OREGON STATE UNIV CORVALLIS",
+    "institutionSymbol": "ORE",
     "institutionState": "OR",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "OSTERHOUT FREE LIBR",
-    "institutionSymbol": "OST",
-    "institutionState": "PA",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "OTTAWA PUB LIBR",
-    "institutionSymbol": "OTP",
-    "institutionState": "ON",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "OXNARD PUB LIBR",
-    "institutionSymbol": "JRN",
-    "institutionState": "CA",
-    "requestsFilled": "1"
+    "requestsFilled": "9"
   },
   {
     "name": "PACIFIC LUTHERAN UNIV",
     "institutionSymbol": "OPV",
     "institutionState": "WA",
-    "requestsFilled": "12"
-  },
-  {
-    "name": "PALESTINE PUB LIBR",
-    "institutionSymbol": "PALES",
-    "institutionState": "TX",
     "requestsFilled": "1"
   },
   {
-    "name": "PATRICK HEATH PUB LIBR",
-    "institutionSymbol": "T2S",
-    "institutionState": "TX",
+    "name": "PACIFIC NORTHWEST NAT LAB",
+    "institutionSymbol": "OIQ",
+    "institutionState": "WA",
     "requestsFilled": "1"
   },
   {
-    "name": "PERU STATE COL LIBR",
-    "institutionSymbol": "NBP",
-    "institutionState": "NE",
+    "name": "PACIFIC UNIV",
+    "institutionSymbol": "OPU",
+    "institutionState": "OR",
     "requestsFilled": "1"
   },
   {
-    "name": "PHOENIX PUB LIBR",
-    "institutionSymbol": "PNX",
-    "institutionState": "AZ",
-    "requestsFilled": "6"
+    "name": "PALM BEACH ATLANTIC UNIV LIBR",
+    "institutionSymbol": "FBB",
+    "institutionState": "FL",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "PALM BEACH CNTY LIBR SYST",
+    "institutionSymbol": "FWP",
+    "institutionState": "FL",
+    "requestsFilled": "4"
+  },
+  {
+    "name": "PATRICK HENRY COL LIBR",
+    "institutionSymbol": "P$H",
+    "institutionState": "VA",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "PAUL SAWYIER PUB LIBR",
+    "institutionSymbol": "KL8",
+    "institutionState": "KY",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "PAYETTE PUB LIBR",
+    "institutionSymbol": "P5Y",
+    "institutionState": "ID",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "PEND OREILLE CNTY LIBR DIST",
+    "institutionSymbol": "XRQ",
+    "institutionState": "WA",
+    "requestsFilled": "1"
   },
   {
     "name": "PIERCE CNTY LIBR SYST",
     "institutionSymbol": "RLS",
     "institutionState": "WA",
-    "requestsFilled": "8"
+    "requestsFilled": "60"
   },
   {
     "name": "PIKES PEAK LIBR DIST",
@@ -1440,22 +1104,16 @@
     "requestsFilled": "1"
   },
   {
-    "name": "PITTSBURG STATE UNIV",
-    "institutionSymbol": "KFP",
-    "institutionState": "KS",
+    "name": "PIMA CNTY PUB LIBR",
+    "institutionSymbol": "AZT",
+    "institutionState": "AZ",
     "requestsFilled": "1"
   },
   {
-    "name": "PLANO PUB LIBR SYST",
-    "institutionSymbol": "PLS",
-    "institutionState": "TX",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "PLATTE CNTY PUB LIBR",
-    "institutionSymbol": "W9C",
-    "institutionState": "WY",
-    "requestsFilled": "1"
+    "name": "PIONEER LIBR SYST",
+    "institutionSymbol": "OKM",
+    "institutionState": "OK",
+    "requestsFilled": "3"
   },
   {
     "name": "POINT LOMA NAZARENE UNIV LIBR",
@@ -1464,22 +1122,22 @@
     "requestsFilled": "1"
   },
   {
-    "name": "PORTLAND COMMUN COL LIBR",
-    "institutionSymbol": "OQP",
-    "institutionState": "OR",
-    "requestsFilled": "12"
+    "name": "PORT TOWNSEND PUB LIBR",
+    "institutionSymbol": "AA3",
+    "institutionState": "WA",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "PORTAGE CNTY PUB LIBR",
+    "institutionSymbol": "WJQ",
+    "institutionState": "WI",
+    "requestsFilled": "1"
   },
   {
     "name": "PORTLAND PUB LIBR",
     "institutionSymbol": "PPN",
     "institutionState": "ME",
     "requestsFilled": "1"
-  },
-  {
-    "name": "PORTLAND STATE UNIV LIBR",
-    "institutionSymbol": "ORZ",
-    "institutionState": "OR",
-    "requestsFilled": "26"
   },
   {
     "name": "PRATT INST LIBRS",
@@ -1494,98 +1152,86 @@
     "requestsFilled": "1"
   },
   {
-    "name": "PRITZKER MILITARY LIBR",
-    "institutionSymbol": "ILPML",
-    "institutionState": "IL",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "PROSPECT HEIGHTS PUB LIBR DIST",
-    "institutionSymbol": "JAO",
-    "institutionState": "IL",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "PROVO CITY PUB LIBR",
-    "institutionSymbol": "UPZ",
+    "name": "PRESIDENT MILLARD FILLMORE LIBR",
+    "institutionSymbol": "FILLM",
     "institutionState": "UT",
-    "requestsFilled": "6"
-  },
-  {
-    "name": "REED COL LIBR",
-    "institutionSymbol": "ORC",
-    "institutionState": "OR",
-    "requestsFilled": "17"
-  },
-  {
-    "name": "RENSSELAER POLYTECHNIC INST",
-    "institutionSymbol": "YRM",
-    "institutionState": "NY",
     "requestsFilled": "1"
   },
   {
-    "name": "RENTON TECH COL",
-    "institutionSymbol": "Z27",
-    "institutionState": "WA",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "RHODE ISLAND SCH OF DESIGN LIBR",
-    "institutionSymbol": "RSD",
+    "name": "PROVIDENCE COL, PHILLIPS MEM LIBR",
+    "institutionSymbol": "PRC",
     "institutionState": "RI",
     "requestsFilled": "1"
   },
   {
-    "name": "RIGBY CITY LIBR",
-    "institutionSymbol": "ZBQ",
-    "institutionState": "ID",
-    "requestsFilled": "5"
+    "name": "QUEENS BOROUGH PUB LIBR",
+    "institutionSymbol": "ZQP",
+    "institutionState": "NY",
+    "requestsFilled": "2"
   },
   {
-    "name": "RIPON COL LIBR",
-    "institutionSymbol": "WIP",
-    "institutionState": "WI",
+    "name": "QUEENS UNIV LIBR",
+    "institutionSymbol": "Q2U",
+    "institutionState": "ON",
     "requestsFilled": "1"
   },
   {
-    "name": "ROCK SPRINGS LIBR",
-    "institutionSymbol": "W7R",
-    "institutionState": "WY",
-    "requestsFilled": "4"
+    "name": "RHODE ISLAND OFF OF LIBR & INFO SERVS",
+    "institutionSymbol": "RDS",
+    "institutionState": "RI",
+    "requestsFilled": "2"
   },
   {
-    "name": "ROSEBUD CNTY LIBR",
-    "institutionSymbol": "YPQ",
-    "institutionState": "MT",
+    "name": "ROCKFORD PUB LIBR",
+    "institutionSymbol": "JBO",
+    "institutionState": "IL",
     "requestsFilled": "1"
   },
   {
-    "name": "ROUND ROCK PUB LIBR",
-    "institutionSymbol": "QT4",
-    "institutionState": "TX",
+    "name": "ROYAL DANISH LIBR - COPENHAGEN CUL DKB",
+    "institutionSymbol": "DKB",
+    "institutionState": "EU",
+    "requestsFilled": "2"
+  },
+  {
+    "name": "RUTGERS UNIV",
+    "institutionSymbol": "NJR",
+    "institutionState": "NJ",
     "requestsFilled": "1"
   },
   {
-    "name": "RUSK CNTY LIBR",
-    "institutionSymbol": "YT3",
-    "institutionState": "TX",
+    "name": "RUTHERFORD CNTY LIBR SYST",
+    "institutionSymbol": "TNLPL",
+    "institutionState": "TN",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "SAINT ANSELM COL",
+    "institutionSymbol": "SAC",
+    "institutionState": "NH",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "SAINT CHARLES CITY-CNTY LIBR DIST",
+    "institutionSymbol": "ZAC",
+    "institutionState": "MO",
+    "requestsFilled": "2"
+  },
+  {
+    "name": "SAINT CHARLES PUB LIBR DIST",
+    "institutionSymbol": "PX0",
+    "institutionState": "IL",
+    "requestsFilled": "2"
+  },
+  {
+    "name": "SAINT JOSEPH PUB LIBR",
+    "institutionSymbol": "MQP",
+    "institutionState": "MO",
     "requestsFilled": "1"
   },
   {
     "name": "SAINT LOUIS CNTY LIBR",
     "institutionSymbol": "ZAE",
-    "institutionState": "MO",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "SAINT LOUIS PUB LIBR",
-    "institutionSymbol": "SVP",
-    "institutionState": "MO",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "SAINT LOUIS UNIV, PIUS XII LIBR",
-    "institutionSymbol": "XII",
     "institutionState": "MO",
     "requestsFilled": "1"
   },
@@ -1593,53 +1239,59 @@
     "name": "SAINT MARTIN'S UNIV",
     "institutionSymbol": "WSL",
     "institutionState": "WA",
-    "requestsFilled": "6"
+    "requestsFilled": "3"
   },
   {
-    "name": "SAINT NORBERT COL LIBR",
-    "institutionSymbol": "WCD",
-    "institutionState": "WI",
+    "name": "SAINT MARY'S COL LIBR",
+    "institutionSymbol": "GH0",
+    "institutionState": "CA",
+    "requestsFilled": "2"
+  },
+  {
+    "name": "SAINT TAMMANY PARISH LIBR",
+    "institutionSymbol": "LTP",
+    "institutionState": "LA",
     "requestsFilled": "1"
   },
   {
-    "name": "SALISH KOOTENAI COL LIBR",
-    "institutionSymbol": "Y54",
-    "institutionState": "MT",
+    "name": "SALEM PUB LIBR",
+    "institutionSymbol": "OSE",
+    "institutionState": "OR",
+    "requestsFilled": "3"
+  },
+  {
+    "name": "SALEM STATE UNIV",
+    "institutionSymbol": "SST",
+    "institutionState": "MA",
     "requestsFilled": "1"
+  },
+  {
+    "name": "SALIDA REG LIBR",
+    "institutionSymbol": "BV#",
+    "institutionState": "CO",
+    "requestsFilled": "2"
   },
   {
     "name": "SALT LAKE CITY PUB LIBR",
     "institutionSymbol": "UUP",
     "institutionState": "UT",
-    "requestsFilled": "3"
+    "requestsFilled": "2"
   },
   {
     "name": "SALT LAKE CNTY LIBR SVC",
     "institutionSymbol": "UUC",
     "institutionState": "UT",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "SAM HOUSTON STATE UNIV",
-    "institutionSymbol": "SHH",
-    "institutionState": "TX",
-    "requestsFilled": "5"
+    "requestsFilled": "2"
   },
   {
     "name": "SAN ANTONIO PUB LIBR",
     "institutionSymbol": "SAP",
     "institutionState": "TX",
-    "requestsFilled": "1"
+    "requestsFilled": "2"
   },
   {
-    "name": "SAN DIEGO CNTY LIBR",
-    "institutionSymbol": "SDG",
-    "institutionState": "CA",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "SAN FRANCISCO MARITIME NAT HISTL PARK",
-    "institutionSymbol": "UDU",
+    "name": "SAN DIEGO PUB LIBR",
+    "institutionSymbol": "JTB",
     "institutionState": "CA",
     "requestsFilled": "1"
   },
@@ -1647,139 +1299,109 @@
     "name": "SAN FRANCISCO PUB LIBR",
     "institutionSymbol": "SFR",
     "institutionState": "CA",
-    "requestsFilled": "7"
+    "requestsFilled": "2"
   },
   {
-    "name": "SAN JOSE STATE UNIV",
-    "institutionSymbol": "CSJ",
+    "name": "SAN JUAN ISLAND LIBR DIST",
+    "institutionSymbol": "SJI",
+    "institutionState": "WA",
+    "requestsFilled": "6"
+  },
+  {
+    "name": "SANTA CRUZ PUB LIBRS",
+    "institutionSymbol": "JTA",
     "institutionState": "CA",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "SAN JUAN COL LIBR",
-    "institutionSymbol": "S2J",
-    "institutionState": "NM",
     "requestsFilled": "1"
   },
   {
-    "name": "SANTA FE PUB LIBR",
-    "institutionSymbol": "SFP",
-    "institutionState": "NM",
+    "name": "SARATOGA BRCH LIBR",
+    "institutionSymbol": "WYSBL",
+    "institutionState": "WY",
     "requestsFilled": "1"
   },
   {
-    "name": "SCENIC REGN LIBR",
-    "institutionSymbol": "MZ7",
-    "institutionState": "MO",
-    "requestsFilled": "3"
-  },
-  {
-    "name": "SCHAUMBURG TOWNSHIP DIST LIBR",
-    "institutionSymbol": "GO9",
-    "institutionState": "IL",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "SCHOOL OF VISUAL ARTS LIBR",
-    "institutionSymbol": "ZVT",
-    "institutionState": "NY",
+    "name": "SCOTTSDALE PUB LIBR",
+    "institutionSymbol": "AZD",
+    "institutionState": "AZ",
     "requestsFilled": "1"
   },
   {
     "name": "SEASIDE PUB LIBR",
     "institutionSymbol": "XV9",
     "institutionState": "OR",
-    "requestsFilled": "14"
-  },
-  {
-    "name": "SEATTLE PACIFIC UNIV LIBR",
-    "institutionSymbol": "OXF",
-    "institutionState": "WA",
-    "requestsFilled": "9"
+    "requestsFilled": "4"
   },
   {
     "name": "SEATTLE PUB LIBR",
     "institutionSymbol": "UOK",
     "institutionState": "WA",
-    "requestsFilled": "46"
+    "requestsFilled": "7"
   },
   {
     "name": "SEATTLE UNIV",
     "institutionSymbol": "WSE",
     "institutionState": "WA",
-    "requestsFilled": "5"
-  },
-  {
-    "name": "SHERIDAN CNTY LIBR",
-    "institutionSymbol": "YMZ",
-    "institutionState": "MT",
     "requestsFilled": "1"
   },
   {
-    "name": "SIUSLAW PUB LIBR DIST",
-    "institutionSymbol": "SIUSL",
+    "name": "SEDONA PUB LIBR",
+    "institutionSymbol": "FY3",
+    "institutionState": "AZ",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "SETON HALL UNIV",
+    "institutionSymbol": "STH",
+    "institutionState": "NJ",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "SHERIDAN CNTY FULMER PUB LIBR",
+    "institutionSymbol": "W5F",
+    "institutionState": "WY",
+    "requestsFilled": "2"
+  },
+  {
+    "name": "SHERWOOD PUB LIBR",
+    "institutionSymbol": "OXE",
     "institutionState": "OR",
+    "requestsFilled": "7"
+  },
+  {
+    "name": "SIERRA VISTA PUB LIBR",
+    "institutionSymbol": "SVZ",
+    "institutionState": "AZ",
     "requestsFilled": "1"
   },
   {
-    "name": "SKAGIT VAL COLL LIBR MEDIA CTR",
-    "institutionSymbol": "Z74",
-    "institutionState": "WA",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "SMITHSONIAN INSTITUTION",
-    "institutionSymbol": "SMI",
-    "institutionState": "DC",
-    "requestsFilled": "4"
+    "name": "SIOUXLAND LIBR",
+    "institutionSymbol": "SDD",
+    "institutionState": "SD",
+    "requestsFilled": "2"
   },
   {
     "name": "SNO-ISLE LIBRS",
     "institutionSymbol": "OEM",
     "institutionState": "WA",
-    "requestsFilled": "14"
+    "requestsFilled": "15"
   },
   {
-    "name": "SOUTH CAROLINA STATE LIBR",
-    "institutionSymbol": "DSC",
-    "institutionState": "SC",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "SOUTH CENT LIBR SYST",
-    "institutionSymbol": "WIM",
-    "institutionState": "WI",
-    "requestsFilled": "6"
-  },
-  {
-    "name": "SOUTH PLAINS COL LIBR",
-    "institutionSymbol": "LEV",
-    "institutionState": "TX",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "SOUTHEAST KENTUCKY COM & TECH COLL LIBR",
-    "institutionSymbol": "KUS",
-    "institutionState": "KY",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "SOUTHERN METHODIST UNIV, CENT LIBR",
-    "institutionSymbol": "ISM",
-    "institutionState": "TX",
+    "name": "SOMERSET CNTY LIBR",
+    "institutionSymbol": "SOM",
+    "institutionState": "NJ",
     "requestsFilled": "1"
   },
   {
     "name": "SPOKANE CNTY LIBR DIST",
     "institutionSymbol": "WSN",
     "institutionState": "WA",
-    "requestsFilled": "15"
+    "requestsFilled": "16"
   },
   {
     "name": "SPOKANE PUB LIBR",
     "institutionSymbol": "UAG",
     "institutionState": "WA",
-    "requestsFilled": "2"
+    "requestsFilled": "24"
   },
   {
     "name": "SPRINGFIELD CITY LIBR",
@@ -1788,226 +1410,196 @@
     "requestsFilled": "1"
   },
   {
-    "name": "STATE LIBR OF LOUISIANA",
-    "institutionSymbol": "LSL",
+    "name": "SPRINGFIELD GREENE CNTY LIBR",
+    "institutionSymbol": "MOS",
+    "institutionState": "MO",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "STANFORD UNIV INTERLIBRARY SERVS",
+    "institutionSymbol": "ST2",
+    "institutionState": "CA",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "STATE LIBR OF LOUISIANA ISO ILL",
+    "institutionSymbol": "AGLSL",
     "institutionState": "LA",
+    "requestsFilled": "19"
+  },
+  {
+    "name": "STILLWATER PUB LIBR",
+    "institutionSymbol": "STW",
+    "institutionState": "OK",
     "requestsFilled": "1"
   },
   {
-    "name": "STATESBORO REG LIBR",
-    "institutionSymbol": "ZHT",
-    "institutionState": "GA",
+    "name": "STONEHILL COL",
+    "institutionSymbol": "STO",
+    "institutionState": "MA",
     "requestsFilled": "1"
   },
   {
-    "name": "SUNY COL AT PURCHASE",
-    "institutionSymbol": "ZPM",
+    "name": "SUMMIT CNTY LIBR SYST, KAMAS BRANCH",
+    "institutionSymbol": "UTSUM",
+    "institutionState": "UT",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "SUNY AT BINGHAMTON",
+    "institutionSymbol": "BNG",
     "institutionState": "NY",
     "requestsFilled": "1"
+  },
+  {
+    "name": "SUNY COL AT FREDONIA",
+    "institutionSymbol": "XFM",
+    "institutionState": "NY",
+    "requestsFilled": "2"
   },
   {
     "name": "TACOMA PUB LIBR",
     "institutionSymbol": "TAW",
     "institutionState": "WA",
-    "requestsFilled": "13"
+    "requestsFilled": "3"
   },
   {
-    "name": "TARLETON STATE UNIV",
-    "institutionSymbol": "TTS",
-    "institutionState": "TX",
+    "name": "TAMPA-HILLSBOROUGH CNTY PUB LIBR",
+    "institutionSymbol": "TNH",
+    "institutionState": "FL",
     "requestsFilled": "1"
   },
   {
-    "name": "TEXAS A&M UNIV CENT TEXAS",
-    "institutionSymbol": "TAMCT",
-    "institutionState": "TX",
+    "name": "TETON CNTY LIBR",
+    "institutionSymbol": "W8T",
+    "institutionState": "WY",
     "requestsFilled": "1"
   },
   {
-    "name": "TEXAS A&M UNIV, KINGSVILLE",
-    "institutionSymbol": "TAI",
+    "name": "TEXAS A&M UNIV",
+    "institutionSymbol": "TXA",
     "institutionState": "TX",
     "requestsFilled": "1"
-  },
-  {
-    "name": "TEXAS STATE UNIV-SAN MARCOS",
-    "institutionSymbol": "TXI",
-    "institutionState": "TX",
-    "requestsFilled": "5"
   },
   {
     "name": "TEXAS TECH UNIV",
     "institutionSymbol": "ILU",
     "institutionState": "TX",
-    "requestsFilled": "6"
-  },
-  {
-    "name": "THE CLAREMONT COLLEGES",
-    "institutionSymbol": "HDC",
-    "institutionState": "CA",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "THE COLL OF ST SCHOLASTICA LIBR",
-    "institutionSymbol": "MNS",
-    "institutionState": "MN",
     "requestsFilled": "2"
   },
   {
-    "name": "THE MASTERS UNIV",
-    "institutionSymbol": "MXL",
-    "institutionState": "CA",
+    "name": "THE LIBRS OF STEVENS CNTY",
+    "institutionSymbol": "LZS",
+    "institutionState": "WA",
     "requestsFilled": "1"
   },
   {
-    "name": "THOMAS CNTY PUB LIBR SYST",
-    "institutionSymbol": "ZHU",
-    "institutionState": "GA",
+    "name": "THOMAS BRANIGAN MEM PUB LIBR",
+    "institutionSymbol": "TBL",
+    "institutionState": "NM",
     "requestsFilled": "1"
+  },
+  {
+    "name": "TIGARD PUB LIBR",
+    "institutionSymbol": "OQW",
+    "institutionState": "OR",
+    "requestsFilled": "2"
   },
   {
     "name": "TILLAMOOK CNTY LIBR",
     "institutionSymbol": "TCO",
     "institutionState": "OR",
-    "requestsFilled": "4"
+    "requestsFilled": "3"
   },
   {
     "name": "TIMBERLAND REG LIBR",
     "institutionSymbol": "UOJ",
     "institutionState": "WA",
-    "requestsFilled": "13"
+    "requestsFilled": "35"
   },
   {
-    "name": "TOM GREEN CNTY LIBR SYST",
-    "institutionSymbol": "QT5",
-    "institutionState": "TX",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "TOPEKA & SHAWNEE CNTY PUB LIBR",
-    "institutionSymbol": "KTP",
-    "institutionState": "KS",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "TRANSYLVANIA UNIV",
-    "institutionSymbol": "KTU",
-    "institutionState": "KY",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "TREASURE VAL COMMUN COL",
-    "institutionSymbol": "TVC",
-    "institutionState": "OR",
-    "requestsFilled": "4"
-  },
-  {
-    "name": "TRINITY UNIV, COATES LIBR",
-    "institutionSymbol": "TNY",
-    "institutionState": "TX",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "TRUCKEE MEADOWS COMMUN COL",
-    "institutionSymbol": "NTF",
-    "institutionState": "NV",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "TRUTH OR CONSEQUENCES PUB LIBR",
-    "institutionSymbol": "DY3",
-    "institutionState": "NM",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "UC HASTINGS COLL OF THE LAW",
-    "institutionSymbol": "CUH",
-    "institutionState": "CA",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "UNIV OF AKRON",
-    "institutionSymbol": "AKR",
+    "name": "TIPP CITY PUB LIBR",
+    "institutionSymbol": "OHTCP",
     "institutionState": "OH",
     "requestsFilled": "1"
   },
   {
-    "name": "UNIV OF ALASKA, ELMER E RASMUSON LIBR",
-    "institutionSymbol": "UAF",
-    "institutionState": "AK",
+    "name": "TROY UNIV LIBR",
+    "institutionSymbol": "ADA",
+    "institutionState": "AL",
     "requestsFilled": "1"
   },
   {
-    "name": "UNIV OF ARKANSAS MULLINS",
-    "institutionSymbol": "AFU",
-    "institutionState": "AR",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "UNIV OF CENTRAL MISSOURI LIBR",
-    "institutionSymbol": "MCW",
-    "institutionState": "MO",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "UNIV OF COLORADO AT COLORADO SPRINGS",
-    "institutionSymbol": "COX",
-    "institutionState": "CO",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "UNIV OF COLORADO AT DENVER, AURARIA LIBR",
-    "institutionSymbol": "COA",
-    "institutionState": "CO",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "UNIV OF DALLAS",
-    "institutionSymbol": "IVD",
-    "institutionState": "TX",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "UNIV OF DIST OF COLUMBIA, VAN NESS",
-    "institutionSymbol": "DDU",
-    "institutionState": "DC",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "UNIV OF HOUSTON",
-    "institutionSymbol": "TXH",
-    "institutionState": "TX",
+    "name": "TUALATIN PUB LIBR",
+    "institutionSymbol": "OQS",
+    "institutionState": "OR",
     "requestsFilled": "3"
   },
   {
-    "name": "UNIV OF IDAHO LIBR",
-    "institutionSymbol": "NTD",
-    "institutionState": "ID",
+    "name": "TWIN RIVERS CORRECTIONS CTR LIBR",
+    "institutionSymbol": "Z72",
+    "institutionState": "WA",
+    "requestsFilled": "5"
+  },
+  {
+    "name": "TYE PRESTON MEM LIBR",
+    "institutionSymbol": "TYPML",
+    "institutionState": "TX",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "UNIV OF CALIFORNIA BERKELEY LIBR",
+    "institutionSymbol": "CUY",
+    "institutionState": "CA",
+    "requestsFilled": "9"
+  },
+  {
+    "name": "UNIV OF CALIFORNIA, LOS ANGELES",
+    "institutionSymbol": "CLU",
+    "institutionState": "CA",
+    "requestsFilled": "4"
+  },
+  {
+    "name": "UNIV OF CALIFORNIA, RIVERSIDE",
+    "institutionSymbol": "CRU",
+    "institutionState": "CA",
     "requestsFilled": "2"
   },
   {
-    "name": "UNIV OF LOUISVILLE, SCH OF MUSIC LIBR",
-    "institutionSymbol": "KLM",
-    "institutionState": "KY",
+    "name": "UNIV OF CHICAGO",
+    "institutionSymbol": "CGU",
+    "institutionState": "IL",
     "requestsFilled": "1"
   },
   {
-    "name": "UNIV OF MONTANA, MANSFIELD LIBR",
-    "institutionSymbol": "MTG",
-    "institutionState": "MT",
-    "requestsFilled": "6"
-  },
-  {
-    "name": "UNIV OF N CAROLINA GREENSBORO",
-    "institutionSymbol": "NGU",
-    "institutionState": "NC",
+    "name": "UNIV OF ESSEX",
+    "institutionSymbol": "EUE",
+    "institutionState": "EU",
     "requestsFilled": "1"
   },
   {
-    "name": "UNIV OF N CAROLINA, WILMINGTON",
-    "institutionSymbol": "NXW",
-    "institutionState": "NC",
+    "name": "UNIV OF EVANSVILLE LIBR",
+    "institutionSymbol": "IUE",
+    "institutionState": "IN",
     "requestsFilled": "1"
+  },
+  {
+    "name": "UNIV OF HAWAII AT MANOA LIBR",
+    "institutionSymbol": "HUH",
+    "institutionState": "HI",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "UNIV OF IOWA LIBR",
+    "institutionSymbol": "NUI",
+    "institutionState": "IA",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "UNIV OF MARYLAND, COL PARK",
+    "institutionSymbol": "UMC",
+    "institutionState": "MD",
+    "requestsFilled": "9"
   },
   {
     "name": "UNIV OF NEVADA RENO",
@@ -2016,99 +1608,39 @@
     "requestsFilled": "1"
   },
   {
-    "name": "UNIV OF NEW MEXICO VALENCIA CAM LIBR",
-    "institutionSymbol": "VL#",
-    "institutionState": "NM",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "UNIV OF NORTHERN COLORADO",
-    "institutionSymbol": "COV",
-    "institutionState": "CO",
+    "name": "UNIV OF OREGON LIBR",
+    "institutionSymbol": "ORU",
+    "institutionState": "OR",
     "requestsFilled": "1"
   },
   {
-    "name": "UNIV OF PORTLAND",
-    "institutionSymbol": "OUP",
-    "institutionState": "OR",
-    "requestsFilled": "3"
-  },
-  {
-    "name": "UNIV OF PUGET SOUND LIBR",
-    "institutionSymbol": "UPP",
-    "institutionState": "WA",
-    "requestsFilled": "17"
-  },
-  {
-    "name": "UNIV OF SAINT FRANCIS",
-    "institutionSymbol": "FW8",
-    "institutionState": "IN",
+    "name": "UNIV OF S CAROLINA",
+    "institutionSymbol": "SUC",
+    "institutionState": "SC",
     "requestsFilled": "2"
   },
   {
-    "name": "UNIV OF SAN DIEGO, J S COPLEY LIBR",
-    "institutionSymbol": "CDU",
+    "name": "UNIV OF SOUTHERN CALIFORNIA",
+    "institutionSymbol": "CSL",
     "institutionState": "CA",
     "requestsFilled": "1"
   },
   {
-    "name": "UNIV OF ST THOMAS",
-    "institutionSymbol": "MNT",
-    "institutionState": "MN",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "UNIV OF TEXAS AT DALLAS",
-    "institutionSymbol": "ITD",
-    "institutionState": "TX",
+    "name": "UNIV OF TASMANIA LIBR",
+    "institutionSymbol": "LT0",
+    "institutionState": "AS",
     "requestsFilled": "1"
   },
   {
-    "name": "UNIV OF TEXAS AT EL PASO LIBR",
-    "institutionSymbol": "TXU",
-    "institutionState": "TX",
-    "requestsFilled": "3"
+    "name": "UNIV OF WASHINGTON LIBR",
+    "institutionSymbol": "WAU",
+    "institutionState": "WA",
+    "requestsFilled": "4"
   },
   {
-    "name": "UNIV OF TEXAS AT PERMIAN BASIN",
-    "institutionSymbol": "TXO",
-    "institutionState": "TX",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "UNIV OF TEXAS AT SAN ANTONIO",
-    "institutionSymbol": "TXJ",
-    "institutionState": "TX",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "UNIV OF TEXAS RIO GRANDE VAL THE",
-    "institutionSymbol": "TPN",
-    "institutionState": "TX",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "UNIV OF THE SOUTH",
-    "institutionSymbol": "TWU",
-    "institutionState": "TN",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "UNIV OF TOLEDO",
-    "institutionSymbol": "TOL",
-    "institutionState": "OH",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "UNIV OF VIRGINIA",
-    "institutionSymbol": "VA@",
-    "institutionState": "VA",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "UNIV OF WESTERN STATES",
-    "institutionSymbol": "OOJ",
-    "institutionState": "OR",
+    "name": "UNIV OF WISCONSIN, STEVENS POINT",
+    "institutionSymbol": "WIS",
+    "institutionState": "WI",
     "requestsFilled": "1"
   },
   {
@@ -2118,200 +1650,152 @@
     "requestsFilled": "1"
   },
   {
-    "name": "UNIV OF WYOMING LIBR",
-    "institutionSymbol": "WYU",
-    "institutionState": "WY",
-    "requestsFilled": "4"
-  },
-  {
-    "name": "URBANDALE PUB LIBR",
-    "institutionSymbol": "JIU",
-    "institutionState": "IA",
+    "name": "UTAH COUN BOOKMOBILE LIBR",
+    "institutionSymbol": "UTAHB",
+    "institutionState": "UT",
     "requestsFilled": "1"
   },
   {
-    "name": "US AIR FORCE EDWARDS AFB TECH RES LIBR",
-    "institutionSymbol": "CED",
-    "institutionState": "CA",
+    "name": "VASSAR COL",
+    "institutionSymbol": "VXW",
+    "institutionState": "NY",
     "requestsFilled": "1"
   },
   {
-    "name": "US AIR FORCE, FAIRCHILD AFB, FL4620",
-    "institutionSymbol": "FGJ",
+    "name": "VERMONT DEPT OF LIBR, PROC CTR",
+    "institutionSymbol": "VSS",
+    "institutionState": "VT",
+    "requestsFilled": "2"
+  },
+  {
+    "name": "VITERBO UNIV LIBRARY.",
+    "institutionSymbol": "ZR1",
+    "institutionState": "WI",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "WALDRON ISLAND SCH LIBR",
+    "institutionSymbol": "WISLI",
     "institutionState": "WA",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "US AIR FORCE, MALMSTROM AFB, LIBR FL4626",
-    "institutionSymbol": "FGQ",
-    "institutionState": "MT",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "US ARMY CORPS OF ENG, PORTLAND DIST",
-    "institutionSymbol": "AFP",
-    "institutionState": "OR",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "UTAH STATE LIBR",
-    "institutionSymbol": "ULC",
-    "institutionState": "UT",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "UTAH STATE UNIV",
-    "institutionSymbol": "UUS",
-    "institutionState": "UT",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "UTAH VAL UNIV",
-    "institutionSymbol": "UV$",
-    "institutionState": "UT",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "VALIER PUB LIBR",
-    "institutionSymbol": "YVW",
-    "institutionState": "MT",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "VERNON AREA PUB LIBR DIST",
-    "institutionSymbol": "IV@",
-    "institutionState": "IL",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "VINCENNES UNIV",
-    "institutionSymbol": "IVV",
-    "institutionState": "IN",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "VIRGINIA TECH",
-    "institutionSymbol": "VPI",
-    "institutionState": "VA",
-    "requestsFilled": "1"
+    "requestsFilled": "3"
   },
   {
     "name": "WALLA WALLA CNTY RURAL LIBR DIST",
     "institutionSymbol": "XVJ",
     "institutionState": "WA",
-    "requestsFilled": "3"
+    "requestsFilled": "2"
   },
   {
-    "name": "WALLA WALLA COMMUN COL LIBR",
-    "institutionSymbol": "XVG",
-    "institutionState": "WA",
+    "name": "WARREN NEWPORT PUB LIBR DIST",
+    "institutionSymbol": "IHZ",
+    "institutionState": "IL",
     "requestsFilled": "1"
   },
   {
-    "name": "WALLA WALLA UNIV",
-    "institutionSymbol": "OXG",
-    "institutionState": "WA",
-    "requestsFilled": "1"
-  },
-  {
-    "name": "WARNER PACIFIC UNIV",
-    "institutionSymbol": "OWP",
-    "institutionState": "OR",
-    "requestsFilled": "3"
-  },
-  {
-    "name": "WARSAW COMMUN PUB LIBR",
-    "institutionSymbol": "XWA",
-    "institutionState": "IN",
-    "requestsFilled": "3"
-  },
-  {
-    "name": "WARTBURG COL",
-    "institutionSymbol": "IOW",
-    "institutionState": "IA",
+    "name": "WASHINGTON & LEE UNIV",
+    "institutionSymbol": "VLW",
+    "institutionState": "VA",
     "requestsFilled": "1"
   },
   {
     "name": "WASHINGTON CNTY COOP LIBR",
     "institutionSymbol": "OQX",
     "institutionState": "OR",
-    "requestsFilled": "3"
+    "requestsFilled": "2"
   },
   {
-    "name": "WASHINGTON STATE LIBR",
-    "institutionSymbol": "WRJ",
+    "name": "WASHINGTON STATE LAW LIBR",
+    "institutionSymbol": "Z@5",
     "institutionState": "WA",
-    "requestsFilled": "3"
+    "requestsFilled": "1"
+  },
+  {
+    "name": "WASHINGTON STATE UNIV LIBR",
+    "institutionSymbol": "WS7",
+    "institutionState": "WA",
+    "requestsFilled": "2"
   },
   {
     "name": "WASHOE CNTY LIBR SYST",
     "institutionSymbol": "NUW",
     "institutionState": "NV",
-    "requestsFilled": "2"
+    "requestsFilled": "3"
   },
   {
-    "name": "WAUKESHA CNTY TECH COLL LIBR",
-    "institutionSymbol": "WCT",
-    "institutionState": "WI",
-    "requestsFilled": "1"
+    "name": "WAUCONDA AREA PUB LIBR DIST",
+    "institutionSymbol": "DV1",
+    "institutionState": "IL",
+    "requestsFilled": "2"
   },
   {
     "name": "WEBER STATE UNIV",
     "institutionSymbol": "UUO",
     "institutionState": "UT",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "WEST CHICAGO PUB LIBR DIST",
+    "institutionSymbol": "JOV",
+    "institutionState": "IL",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "WEST VIRGINIA UNIV LIBR",
+    "institutionSymbol": "WVU",
+    "institutionState": "WV",
     "requestsFilled": "2"
   },
   {
     "name": "WESTCHESTER LIBR SYST",
     "institutionSymbol": "VVW",
     "institutionState": "NY",
-    "requestsFilled": "3"
+    "requestsFilled": "1"
   },
   {
     "name": "WESTERN OREGON UNIV LIBR",
     "institutionSymbol": "WOS",
     "institutionState": "OR",
-    "requestsFilled": "2"
-  },
-  {
-    "name": "WESTERN SEMINARY",
-    "institutionSymbol": "WBS",
-    "institutionState": "OR",
     "requestsFilled": "1"
   },
   {
-    "name": "WESTERN WASHINGTON UNIV",
-    "institutionSymbol": "XFF",
-    "institutionState": "WA",
-    "requestsFilled": "6"
+    "name": "WESTERN WYOMING COMMUN COL",
+    "institutionSymbol": "WYR",
+    "institutionState": "WY",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "WESTMINSTER COL",
+    "institutionSymbol": "MOW",
+    "institutionState": "MO",
+    "requestsFilled": "1"
   },
   {
     "name": "WHATCOM CNTY LIBR SYST",
     "institutionSymbol": "WC4",
     "institutionState": "WA",
-    "requestsFilled": "19"
+    "requestsFilled": "31"
   },
   {
-    "name": "WHITE MOUNTAIN LIBR",
-    "institutionSymbol": "W8W",
-    "institutionState": "WY",
+    "name": "WHEATON COL",
+    "institutionSymbol": "ICW",
+    "institutionState": "IL",
     "requestsFilled": "1"
+  },
+  {
+    "name": "WHITE PINE LIBR COOP",
+    "institutionSymbol": "EZW",
+    "institutionState": "MI",
+    "requestsFilled": "2"
   },
   {
     "name": "WHITMAN COL, PENROSE MEM LIBR",
     "institutionSymbol": "HTM",
     "institutionState": "WA",
-    "requestsFilled": "6"
+    "requestsFilled": "1"
   },
   {
-    "name": "WHITWORTH UNIV",
-    "institutionSymbol": "WTV",
-    "institutionState": "WA",
-    "requestsFilled": "5"
-  },
-  {
-    "name": "WICHITA STATE UNIV",
-    "institutionSymbol": "KSW",
+    "name": "WICHITA PUB LIBR",
+    "institutionSymbol": "KFW",
     "institutionState": "KS",
     "requestsFilled": "1"
   },
@@ -2319,18 +1803,42 @@
     "name": "WILLAMETTE UNIV LIBR",
     "institutionSymbol": "OWS",
     "institutionState": "OR",
-    "requestsFilled": "5"
+    "requestsFilled": "1"
   },
   {
-    "name": "WITTENBERG UNIV",
-    "institutionSymbol": "WIT",
-    "institutionState": "OH",
+    "name": "WILLIAM PATERSON UNIV OF NEW JERSEY LIBR",
+    "institutionSymbol": "NJP",
+    "institutionState": "NJ",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "WILLIAMSBURG REG LIBR",
+    "institutionSymbol": "VAK",
+    "institutionState": "VA",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "WINNEFOX LIBR SYST",
+    "institutionSymbol": "GZK",
+    "institutionState": "WI",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "WINTER PARK PUB LIBR",
+    "institutionSymbol": "CG4",
+    "institutionState": "FL",
+    "requestsFilled": "1"
+  },
+  {
+    "name": "WOODSTOCK PUB LIBR",
+    "institutionSymbol": "LF8",
+    "institutionState": "IL",
     "requestsFilled": "1"
   },
   {
     "name": "YAKIMA VAL LIBRS",
     "institutionSymbol": "YVR",
     "institutionState": "WA",
-    "requestsFilled": "4"
+    "requestsFilled": "2"
   }
 ]
