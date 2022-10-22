@@ -1,4 +1,3 @@
-// TODO: Adjust CSV handling so it does not require any editing
 // TODO: Once CSV handling is adjusted, automatically extract date and year from CSV and add to checkIfLibraryExists
 // TODO: Display dots on map based on number of requests filled
 // TODO: Store libraries and coordinates in a database
@@ -15,10 +14,33 @@ const storedLibraries = require('./assets/storedLibraries.json');
 const lendingLibraries = [];
 
 config();
+const getSourceFileFromCommandLine = (args) => {
+  if (!args) {
+    console.log('Usage: node app.js <filename>');
+    process.exit(1);
+  } else if (args === 'help') {
+    console.log(
+      "Accepts WorldShare Lender Transaction Detail Report in .tsv format in the app's directory and outputs a JSON file with the library's name, coordinates, and number of requests filled."
+    );
+    console.log('Usage: node app.js <filename>');
+    console.log('Example: node app.js sep');
+    process.exit(1);
+  }
+  return args.endsWith('.tsv') ? args : args + '.tsv';
+};
 
-const extractDataFromCSV = () => {
+const validateFile = () => {
+  const args = getSourceFileFromCommandLine(process.argv[2]);
+  if (!fs.existsSync(args)) {
+    console.log(`${args} does not exist in the current directory.`);
+    process.exit(1);
+  }
+  return args;
+};
+
+const extractDataFromCSV = (sourceFile) => {
   const convertedJSON = fs.createWriteStream('lendingLibraries.json');
-  fs.createReadStream('./assets/sep.tsv')
+  fs.createReadStream(sourceFile)
     .pipe(parse({ delimiter: '\t', from_line: 14, relax_column_count: true }))
     .on('data', (row) => {
       // If library actually lent books, add to array
@@ -35,8 +57,7 @@ const extractDataFromCSV = () => {
     .on('end', () => {
       // TODO: Why am I writing this to a file? Was I planning on using it later?
       convertedJSON.write(JSON.stringify(lendingLibraries));
-      console.log(lendingLibraries);
-      // fetchCoordinates();
+      fetchCoordinates();
     });
 };
 
@@ -118,4 +139,4 @@ const fetchCoordinates = () => {
   });
 };
 
-extractDataFromCSV();
+extractDataFromCSV(validateFile());
