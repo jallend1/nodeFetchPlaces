@@ -81,19 +81,19 @@ const extractDataFromCSV = (localDataSource) => {
 };
 
 const checkIfLibraryExists = (library) => {
-  const libraryExists = storedLibraries.find((storedLibrary) => {
-    return storedLibrary.name === library.name;
-  });
-  if (libraryExists) {
-    // Hardcoding date until I update CSV handling
-    libraryExists.date = {
-      month: 'July',
-      year: 2022,
-      requestsFilled: library.requestsFilled
-    };
-  } else {
-    console.log('Not there!');
-  }
+  return storedLibraries.find(
+    (storedLibrary) => storedLibrary.name === library.name
+  );
+  // if (libraryExists) {
+  //   // Hardcoding date until I update CSV handling
+  //   libraryExists.date = {
+  //     month: 'July',
+  //     year: 2022,
+  //     requestsFilled: library.requestsFilled
+  //   };
+  // } else {
+  //   console.log('Not there!');
+  // }
 };
 
 // Sets the location bias to the state of the library
@@ -108,6 +108,11 @@ const determineLocationBias = (library) => {
   }
 };
 
+const fetchFromJSON = (libraryData) => {
+  console.log(libraryData);
+  // TODO: Return the library details from the JSON file in the same format as the one being returned from Google
+};
+
 const fetchCoordinates = () => {
   // Hardcoded to only two libraries for testing purposes
   const sampleInfo = lendingLibraries.slice(0, 2);
@@ -117,7 +122,9 @@ const fetchCoordinates = () => {
 
   const libraryDetails = [];
   sampleInfo.forEach((library, index) => {
-    checkIfLibraryExists(library);
+    checkIfLibraryExists(library) ? fetchFromJSON(library) : console.log('No!');
+    // TODO: Scaffold out the checkIfLibrary function!
+    // TODO: Break out the Google API call into its own function
     const stateBias = determineLocationBias(library);
     client
       .findPlaceFromText({
