@@ -8,8 +8,8 @@ const { config } = require('dotenv');
 const { Client } = require('@googlemaps/google-maps-services-js');
 const client = new Client({});
 const fs = require('fs');
-// const { parse } = require('csv-parse');
-const { parse } = require('csv-parse/sync');
+const { parse } = require('csv-parse');
+const syncParse = require('csv-parse/sync');
 const states = require('./assets/stateBias.json');
 const storedLibraries = require('./assets/storedLibraries.json');
 const lendingLibraries = [];
@@ -39,10 +39,10 @@ const validateFile = () => {
   return args;
 };
 
-// Successfully extracts date from CSV, but does not yet incorporate it into the JSON object
+// TODO: Update this to be an additional .pipe on the original read stream
 const extractDateFromCSV = (localDataSource) => {
   const dataFile = fs.readFileSync(localDataSource, 'utf8');
-  const rawDataDate = parse(dataFile, {
+  const rawDataDate = syncParse.parse(dataFile, {
     delimiter: '\t',
     from_line: 5,
     to_line: 5
@@ -53,7 +53,7 @@ const extractDateFromCSV = (localDataSource) => {
 
 const extractDataFromCSV = (localDataSource) => {
   const dataDateArray = extractDateFromCSV(localDataSource);
-  process.exit(1);
+  // process.exit(1);
   const convertedJSON = fs.createWriteStream('lendingLibraries.json');
   fs.createReadStream(localDataSource)
     .pipe(parse({ delimiter: '\t', from_line: 14, relax_column_count: true }))
@@ -64,7 +64,11 @@ const extractDataFromCSV = (localDataSource) => {
           name: row[0],
           institutionSymbol: row[1],
           institutionState: row[2],
-          requestsFilled: row[7]
+          requestsFilled: row[7],
+          date: {
+            month: dataDateArray[0],
+            year: dataDateArray[1]
+          }
         };
         lendingLibraries.push(locationInfo);
       }
