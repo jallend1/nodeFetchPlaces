@@ -16,7 +16,6 @@ const syncParse = require('csv-parse/sync');
 const states = require('./assets/stateBias.json');
 const storedLibraries = require('./assets/storedLibraries.json');
 const lendingLibraries = [];
-let fileDate;
 
 config();
 initializeApp({
@@ -57,7 +56,8 @@ const extractDateFromCSV = (localDataSource) => {
     to_line: 5
   });
   const dataDateArray = rawDataDate[0][1].split(' ');
-  return dataDateArray;
+  const lowerCaseDateArray = dataDateArray.map((item) => item.toLowerCase());
+  return lowerCaseDateArray;
 };
 
 const extractDataFromCSV = (localDataSource) => {
@@ -158,7 +158,7 @@ const fetchCoordinates = () => {
 
   const libraryDetails = [];
   sampleInfo.forEach((library, index) => {
-    checkIfLibraryExists(library) ? fetchFromJSON(library) : console.log('No!');
+    // checkIfLibraryExists(library) ? fetchFromJSON(library) : console.log('No!');
     // TODO: Scaffold out the checkIfLibrary function!
     // TODO: Break out the Google API call into its own function
     const stateBias = determineLocationBias(library);
@@ -182,11 +182,13 @@ const fetchCoordinates = () => {
           institutionSymbol: library.institutionSymbol,
           institutionState: library.institutionState,
           date: {
-            [library.fileYear]: [
-              { [library.fileMonth]: library.requestsFilled }
-            ]
+            [library.fileYear]: { [library.fileMonth]: library.requestsFilled }
           }
         };
+        console.log(locationData.date[2022]);
+        // db.collection('libraries').add({
+        //   ...locationData
+        // });
         libraryDetails.push(locationData);
         if (index === sampleInfo.length - 1) {
           writeStream.write(JSON.stringify(libraryDetails));
