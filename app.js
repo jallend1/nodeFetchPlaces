@@ -201,6 +201,7 @@ const fetchCoordinates = () => {
         },
         timeout: 1000
       })
+      // TODO: Incorporate space for borrowing AND lending data in one library's record
       .then(({ data }) => {
         const locationData = {
           googleMapsName: data.candidates[0].name,
@@ -218,9 +219,10 @@ const fetchCoordinates = () => {
             }
           }
         };
-        db.collection('libraries').add({
-          ...locationData
-        });
+        // ! Commented out so I'm not using all my API calls
+        // db.collection('libraries').add({
+        //   ...locationData
+        // });
         libraryDetails.push(locationData);
         if (index === sampleInfo.length - 1) {
           writeStream.write(JSON.stringify(libraryDetails));
