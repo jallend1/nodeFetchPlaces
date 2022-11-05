@@ -2,6 +2,7 @@
   "dependencies": {
     "@googlemaps/google-maps-services-js": "^3.3.16",
     "csv": "^6.2.0",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "firebase-admin": "^11.2.0"
   }
 }

@@ -5,6 +5,9 @@
 // TODO: If it does not, fetch the coordinates and add it to the database
 
 const { config } = require('dotenv');
+const { initializeApp, cert } = require('firebase-admin/app');
+const { getFirestore } = require('firebase-admin/firestore');
+const firebaseAccountKey = require('./firebaseAccountKey.json');
 const { Client } = require('@googlemaps/google-maps-services-js');
 const client = new Client({});
 const fs = require('fs');
@@ -13,8 +16,14 @@ const syncParse = require('csv-parse/sync');
 const states = require('./assets/stateBias.json');
 const storedLibraries = require('./assets/storedLibraries.json');
 const lendingLibraries = [];
+let fileDate;
 
 config();
+initializeApp({
+  credential: cert(firebaseAccountKey)
+});
+const db = getFirestore();
+
 const getSourceFileFromCommandLine = (args) => {
   if (!args) {
     console.log('Usage: node app.js <filename>');
@@ -60,15 +69,14 @@ const extractDataFromCSV = (localDataSource) => {
     .on('data', (row) => {
       // If library actually lent books, add to array
       if (row[7] > 0) {
+        const [fileMonth, fileYear] = dataDateArray;
         const locationInfo = {
           name: row[0],
           institutionSymbol: row[1],
           institutionState: row[2],
           requestsFilled: row[7],
-          date: {
-            month: dataDateArray[0],
-            year: dataDateArray[1]
-          }
+          fileYear,
+          fileMonth
         };
         lendingLibraries.push(locationInfo);
       }
@@ -81,6 +89,9 @@ const extractDataFromCSV = (localDataSource) => {
 };
 
 const checkIfLibraryExists = (library) => {
+  console.log(
+    storedLibraries.find((storedLibrary) => storedLibrary.name === library.name)
+  );
   return storedLibraries.find(
     (storedLibrary) => storedLibrary.name === library.name
   );
@@ -109,7 +120,32 @@ const determineLocationBias = (library) => {
 };
 
 const fetchFromJSON = (libraryData) => {
+  // If the library exists, add the date and number of requests filled to the existing object
+
   console.log(libraryData);
+
+  const targetLibrary = storedLibraries.find(
+    (storedLibrary) => storedLibrary.name === libraryData.name
+  );
+  // TODO:
+  const testObject = {
+    ...targetLibrary,
+    test: true
+  };
+  console.log(testObject);
+  // const locationData = {
+  //   googleMapsName: data.candidates[0].name,
+  //   name: library.name,
+  //   latitude: data.candidates[0].geometry.location.lat,
+  //   longitude: data.candidates[0].geometry.location.lng,
+  //   institutionSymbol: library.institutionSymbol,
+  //   institutionState: library.institutionState,
+  //   date: {
+  //     year: 2022,
+  //     month: 9,
+  //     requestsFilled: library.requestsFilled
+  //   }
+  // };
   // TODO: Return the library details from the JSON file in the same format as the one being returned from Google
 };
 
@@ -146,9 +182,9 @@ const fetchCoordinates = () => {
           institutionSymbol: library.institutionSymbol,
           institutionState: library.institutionState,
           date: {
-            year: 2022,
-            month: 9,
-            requestsFilled: library.requestsFilled
+            [library.fileYear]: [
+              { [library.fileMonth]: library.requestsFilled }
+            ]
           }
         };
         libraryDetails.push(locationData);
