@@ -1,1 +1,2783 @@
-[{"name":"ABILENE PUB LIBR","institutionSymbol":"TXB","institutionState":"TX","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"ALASKA 1-800","institutionSymbol":"ALASK","institutionState":"AK","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"ALBUQUERQUE BERNALILLO CNTY LIBR","institutionSymbol":"QUE","institutionState":"NM","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"ALLEN CNTY PUB LIBR","institutionSymbol":"IMF","institutionState":"IN","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"ALOHA COM LIBR","institutionSymbol":"ALOHA","institutionState":"OR","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"ANACORTES PUB LIBR","institutionSymbol":"XFG","institutionState":"WA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"ANGELO STATE UNIV","institutionSymbol":"ANG","institutionState":"TX","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"ANN ARBOR DIST LIBR","institutionSymbol":"EYH","institutionState":"MI","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"ANNE ARUNDEL CNTY PUB LIBR","institutionSymbol":"A2A","institutionState":"MD","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"ARAPAHOE LIBR DIST","institutionSymbol":"CO2","institutionState":"CO","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"ARKANSAS STATE LIBR","institutionSymbol":"AST","institutionState":"AR","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"ASTORIA PUB LIBR","institutionSymbol":"OOO","institutionState":"OR","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"AURORA PUB LIBR","institutionSymbol":"JSE","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"BANGOR PUB LIBR","institutionSymbol":"BYN","institutionState":"ME","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"BARRINGTON AREA LIBR","institutionSymbol":"GK6","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"BARTHOLOMEW CNTY PUB LIBR","institutionSymbol":"INB","institutionState":"IN","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"BASIL ANTHONY MOREAU MEM LIBR (BUDA PL)","institutionSymbol":"BUDAP","institutionState":"TX","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"BEAVERTON CITY LIBR","institutionSymbol":"OXO","institutionState":"OR","requestsFilled":"4","fileYear":"2022","fileMonth":"september"},{"name":"BELLINGHAM PUB LIBR","institutionSymbol":"BLP","institutionState":"WA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"BENBROOK PUB LIBR","institutionSymbol":"BENPL","institutionState":"TX","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"BETHLEHEM AREA PUB LIBR","institutionSymbol":"PBL","institutionState":"PA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"BOSTON COL","institutionSymbol":"BXM","institutionState":"MA","requestsFilled":"5","fileYear":"2022","fileMonth":"september"},{"name":"BOZEMAN PUB LIBR","institutionSymbol":"MZG","institutionState":"MT","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"BRIGHAM YOUNG UNIV PROVO","institutionSymbol":"UBY","institutionState":"UT","requestsFilled":"12","fileYear":"2022","fileMonth":"september"},{"name":"BROWARD CNTY LIBRS DIV","institutionSymbol":"FBR","institutionState":"FL","requestsFilled":"3","fileYear":"2022","fileMonth":"september"},{"name":"BUFFALO & ERIE CNTY PUB LIBR","institutionSymbol":"VHB","institutionState":"NY","requestsFilled":"9","fileYear":"2022","fileMonth":"september"},{"name":"BUTTE-SILVER BOW PUB LIBR","institutionSymbol":"MZE","institutionState":"MT","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"CALIFORNIA LUTHERAN UNIV","institutionSymbol":"CCT","institutionState":"CA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"CALIFORNIA STATE UNIV NORTHRIDGE","institutionSymbol":"CNO","institutionState":"CA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"CALIFORNIA STATE UNIV-LONG BEACH LIBR","institutionSymbol":"CLO","institutionState":"CA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"CAMAS PUB LIBR","institutionSymbol":"Z#6","institutionState":"WA","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"CEDAR MILL COMMUN LIBR","institutionSymbol":"OXD","institutionState":"OR","requestsFilled":"4","fileYear":"2022","fileMonth":"september"},{"name":"CENTRAL WASHINGTON UNIV LIBR","institutionSymbol":"CWU","institutionState":"WA","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"CENTURY COL","institutionSymbol":"LCO","institutionState":"MN","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"CHARLESTON CNTY LIBR","institutionSymbol":"SXC","institutionState":"SC","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"CHARLOTTE MECKLENBURG LIBR","institutionSymbol":"NPC","institutionState":"NC","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"CHATTAHOOCHEE VAL LIBRS","institutionSymbol":"GCV","institutionState":"GA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"CHESTER CNTY LIBR & DIST CTR","institutionSymbol":"PWC","institutionState":"PA","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"CHICAGO PUB LIBR","institutionSymbol":"CGP","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"CHOTEAU-TETON PUB LIBR","institutionSymbol":"YUV","institutionState":"MT","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"CITY OF COOS BAY-ESO","institutionSymbol":"BAY","institutionState":"OR","requestsFilled":"7","fileYear":"2022","fileMonth":"september"},{"name":"COBB CNTY PUB LIBR SYST","institutionSymbol":"ZGJ","institutionState":"GA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"COCHISE CNTY LIBR DIST","institutionSymbol":"BAZ","institutionState":"AZ","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"COEUR D'ALENE PUB LIBR","institutionSymbol":"ZVR","institutionState":"ID","requestsFilled":"9","fileYear":"2022","fileMonth":"september"},{"name":"COLLEGE OF NEW JERSEY, THE","institutionSymbol":"NJT","institutionState":"NJ","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"COLUMBIA CNTY RURAL LIBR","institutionSymbol":"WACCR","institutionState":"WA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"COMMUNITY LIBR NETWORK","institutionSymbol":"K#T","institutionState":"ID","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"COMMUNITY LIBR NETWORK@POST FALLS","institutionSymbol":"P9F","institutionState":"ID","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"CONCORDIA UNIV LIBR","institutionSymbol":"CDN","institutionState":"QC","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"CORBAN UNIV LIBR","institutionSymbol":"OOY","institutionState":"OR","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"CORNELIUS PUB LIBR","institutionSymbol":"OQU","institutionState":"OR","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"COUNCIL BLUFFS PUB LIBR","institutionSymbol":"IWB","institutionState":"IA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"COZBY LIBR & COM COMMONS","institutionSymbol":"WT2","institutionState":"TX","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"CRAB ORCHARD PUBL LIBR DIST","institutionSymbol":"YYO","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"CROOK CNTY LIBR","institutionSymbol":"CCLIB","institutionState":"OR","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"CUNY THE GRAD CTR LIBR","institutionSymbol":"ZGM","institutionState":"NY","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"DAKOTA CNTY LIBR SYST","institutionSymbol":"DCB","institutionState":"MN","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"DANIEL BOONE REG LIBR","institutionSymbol":"ZAB","institutionState":"MO","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"DELAWARE CNTY LIBR SYST","institutionSymbol":"DEL","institutionState":"PA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"DENVER PUB LIBR","institutionSymbol":"DPL","institutionState":"CO","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"DESCHUTES PUB LIBR","institutionSymbol":"DCH","institutionState":"OR","requestsFilled":"8","fileYear":"2022","fileMonth":"september"},{"name":"DOUGLAS CNTY LIBRS","institutionSymbol":"DAD","institutionState":"CO","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"DOVER PUB LIBR","institutionSymbol":"DOV","institutionState":"DE","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"EAST BONNER CNTY LIBR","institutionSymbol":"E4B","institutionState":"ID","requestsFilled":"4","fileYear":"2022","fileMonth":"september"},{"name":"EVANSTON PUB LIBR","institutionSymbol":"IHE","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"EVERETT PUB LIBR","institutionSymbol":"UAI","institutionState":"WA","requestsFilled":"10","fileYear":"2022","fileMonth":"september"},{"name":"FAIRBANKS N STAR BOROUGH LIBR","institutionSymbol":"X#4","institutionState":"AK","requestsFilled":"3","fileYear":"2022","fileMonth":"september"},{"name":"FINDLAY HANCOCK PUB LIBR","institutionSymbol":"FPL","institutionState":"OH","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"FLAGSTAFF CITY, COCONINO CNTY LIBR","institutionSymbol":"AZH","institutionState":"AZ","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"FOREST GROVE PUB LIBR","institutionSymbol":"ORI","institutionState":"OR","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"FOREST PARK PUB LIBR","institutionSymbol":"TO9","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"FORSYTH CNTY PUB LIBR","institutionSymbol":"Y32","institutionState":"GA","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"FORT BEND CNTY LIBRS","institutionSymbol":"FTX","institutionState":"TX","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"FORT VANCOUVER REG LIBR","institutionSymbol":"YEP","institutionState":"WA","requestsFilled":"4","fileYear":"2022","fileMonth":"september"},{"name":"FRANKFORT PUB LIBR DIST","institutionSymbol":"TM3","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"GEAUGA CNTY PUB LIBR","institutionSymbol":"GEC","institutionState":"OH","requestsFilled":"6","fileYear":"2022","fileMonth":"september"},{"name":"GENEVA PUB LIBR DIST","institutionSymbol":"JSY","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"GLENDALE LIBR ARTS & CULTURE","institutionSymbol":"CGL","institutionState":"CA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"GLENDALE PUB LIBR","institutionSymbol":"VTL","institutionState":"AZ","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"GLENVIEW PUB LIBR","institutionSymbol":"FM0","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"GONZAGA UNIV","institutionSymbol":"WUG","institutionState":"WA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"GOSHEN COLL LIBR","institutionSymbol":"IGC","institutionState":"IN","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"GRACE A DOW MEM LIBR","institutionSymbol":"GDM","institutionState":"MI","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"GREAT RIVER REG LIBR","institutionSymbol":"GRR","institutionState":"MN","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"GREENE CNTY PUB LIBR","institutionSymbol":"GRC","institutionState":"OH","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"GREENVILLE CNTY LIBR","institutionSymbol":"SGR","institutionState":"SC","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"HANSEN COMMUN LIBR","institutionSymbol":"HANCL","institutionState":"ID","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"HARRIS CNTY PUB LIBR","institutionSymbol":"HT#","institutionState":"TX","requestsFilled":"4","fileYear":"2022","fileMonth":"september"},{"name":"HARVARD UNIV","institutionSymbol":"HUL","institutionState":"MA","requestsFilled":"3","fileYear":"2022","fileMonth":"september"},{"name":"HELEN HALL LIBR","institutionSymbol":"T7L","institutionState":"TX","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"HENNEPIN CNTY LIBR","institutionSymbol":"HCO","institutionState":"MN","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"HIGH PLAINS LIBR DIST","institutionSymbol":"SO$","institutionState":"CO","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"HIGHLAND CITY LIBR","institutionSymbol":"HGHLN","institutionState":"UT","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"HILLSBORO PUB LIBR","institutionSymbol":"OOV","institutionState":"OR","requestsFilled":"5","fileYear":"2022","fileMonth":"september"},{"name":"HILLSDALE COL, MOSSEY LIBR","institutionSymbol":"EEI","institutionState":"MI","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"HOFSTRA UNIV","institutionSymbol":"ZIH","institutionState":"NY","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"HORRY CNTY MEM LIBR","institutionSymbol":"SHM","institutionState":"SC","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"HOUGHTON COLL","institutionSymbol":"VXO","institutionState":"NY","requestsFilled":"3","fileYear":"2022","fileMonth":"september"},{"name":"HOUSTON PUB LIBR","institutionSymbol":"TXN","institutionState":"TX","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"HUMBOLDT CNTY LIBR","institutionSymbol":"EHU","institutionState":"CA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"HUNTLEY AREA PUB LIBR DIST","institutionSymbol":"GL7","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"IMAGINEIF LIBRS FLATHEAD CNTY","institutionSymbol":"MZC","institutionState":"MT","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"INDIAN TRAILS PUB LIBR DIST","institutionSymbol":"JAG","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"INDIANA ST LIB","institutionSymbol":"SHARE","institutionState":"IN","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"INDIANAPOLIS PUB LIBR","institutionSymbol":"IMD","institutionState":"IN","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"IOWA CITY PUB LIBR","institutionSymbol":"LXY","institutionState":"IA","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"IOWA STATE UNIV","institutionSymbol":"IWA","institutionState":"IA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"IRENE INGLE PUB LIBR","institutionSymbol":"I@I","institutionState":"AK","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"IRON CNTY BOOKMOBILE LIBR","institutionSymbol":"UTIRN","institutionState":"UT","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"IRVING PUB LIBR SYST","institutionSymbol":"IJC","institutionState":"TX","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"JACKSON CNTY LIBR SVC","institutionSymbol":"JCL","institutionState":"OR","requestsFilled":"10","fileYear":"2022","fileMonth":"september"},{"name":"JAMES MADISON UNIV LIBRS","institutionSymbol":"VMC","institutionState":"VA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"JAMES V BROWN LIBR","institutionSymbol":"JVB","institutionState":"PA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"JEFFERSON CNTY PUB LIBR","institutionSymbol":"QQ3","institutionState":"CO","requestsFilled":"4","fileYear":"2022","fileMonth":"september"},{"name":"JEFFERSON PARISH LIBR","institutionSymbol":"LMJ","institutionState":"LA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"JEROME PUB LIBR","institutionSymbol":"J@R","institutionState":"ID","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"JOHNSON & WALES UNIV PROVIDENCE LIBR","institutionSymbol":"PJW","institutionState":"RI","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"JOHNSON CNTY LIBR","institutionSymbol":"KNJ","institutionState":"KS","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"JOHNSON CNTY PUB LIBR","institutionSymbol":"KH4","institutionState":"KY","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"JOINT BASE ELMENDORF-RICHARDSON LIBR","institutionSymbol":"AYI","institutionState":"AK","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"JOINT BASE LEWIS-MCCHORD LIBRARY SYSTEM","institutionSymbol":"AVW","institutionState":"WA","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"JOPLIN PUB LIBR","institutionSymbol":"MQY","institutionState":"MO","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"KETCHIKAN PUB LIBR","institutionSymbol":"Q2Z","institutionState":"AK","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"KIMBALL JUNCTION BRANCH SUMMIT CNTY LIBR","institutionSymbol":"SUMCL","institutionState":"UT","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"KIMBERLY PUB LIBR","institutionSymbol":"KIMPL","institutionState":"ID","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"KITSAP REG LIBR","institutionSymbol":"YEQ","institutionState":"WA","requestsFilled":"38","fileYear":"2022","fileMonth":"september"},{"name":"KLAMATH CNTY LIBR SERV DIST","institutionSymbol":"KCL","institutionState":"OR","requestsFilled":"7","fileYear":"2022","fileMonth":"september"},{"name":"LAS VEGAS CLARK CNTY LIBR DIST","institutionSymbol":"NVC","institutionState":"NV","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"LAWRENCE PUB LIBR","institutionSymbol":"KSA","institutionState":"KS","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"LEE CNTY LIBR SYST","institutionSymbol":"FFL","institutionState":"FL","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"LEROY COLLINS LEON CNTY PUB LIBR","institutionSymbol":"FTL","institutionState":"FL","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"LEWIS & CLARK COL","institutionSymbol":"OLP","institutionState":"OR","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"LEWIS & CLARK LIBR","institutionSymbol":"LQN","institutionState":"MT","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"LIBERTY LAKE MUNICIPAL LIB","institutionSymbol":"LIBLM","institutionState":"WA","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"LIBRARIES IN CLACKAMAS CNTY","institutionSymbol":"LIQ","institutionState":"OR","requestsFilled":"9","fileYear":"2022","fileMonth":"september"},{"name":"LICKING CNTY LIBR","institutionSymbol":"ONW","institutionState":"OH","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"LINCOLN CNTY LIBR DIST","institutionSymbol":"LCS","institutionState":"OR","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"LONGMONT PUB LIBR","institutionSymbol":"CNL","institutionState":"CO","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"LOPEZ ISLAND LIBR","institutionSymbol":"Z67","institutionState":"WA","requestsFilled":"4","fileYear":"2022","fileMonth":"september"},{"name":"LOUISVILLE FREE PUB LIBR","institutionSymbol":"KLP","institutionState":"KY","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"MAINE STATE LIBRARY","institutionSymbol":"MEA","institutionState":"ME","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"MANATEE CNTY PUB LIBR SYST","institutionSymbol":"FMA","institutionState":"FL","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"MARION CNTY LIBR SUBDISTRICT #1","institutionSymbol":"WZ9","institutionState":"MO","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"MARSHALL PUB LIBR","institutionSymbol":"Q6J","institutionState":"ID","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"MCGILL UNIV","institutionSymbol":"LGG","institutionState":"QC","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"MERIDIAN LIBR DIST","institutionSymbol":"ZPJ","institutionState":"ID","requestsFilled":"3","fileYear":"2022","fileMonth":"september"},{"name":"MESSENGER PUB LIBR OF N AURORA","institutionSymbol":"TYV","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"MIAMI UNIV","institutionSymbol":"MIA","institutionState":"OH","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"MID-CONTINENT PUB LIBR","institutionSymbol":"CMI","institutionState":"MO","requestsFilled":"14","fileYear":"2022","fileMonth":"september"},{"name":"MIDDLE TENNESSEE STATE UNIV","institutionSymbol":"TXM","institutionState":"TN","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"MISSOULA PUB LIBR","institutionSymbol":"Y38","institutionState":"MT","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"MONMOUTH UNIV LIBR","institutionSymbol":"MMT","institutionState":"NJ","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"MONTEREY CNTY FREE LIBRS","institutionSymbol":"JRB","institutionState":"CA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"MONTGOMERY CNTY, NORRISTOWN PUB LIBR","institutionSymbol":"MNL","institutionState":"PA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"MOUNTAIN HOME PUB LIBR","institutionSymbol":"MTHPL","institutionState":"ID","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"MULTNOMAH CNTY LIBR","institutionSymbol":"ORX","institutionState":"OR","requestsFilled":"19","fileYear":"2022","fileMonth":"september"},{"name":"NASSAU LIBR SYST","institutionSymbol":"NAB","institutionState":"NY","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"NEBRASKA DEPT OF CORR SERV","institutionSymbol":"WH5","institutionState":"NE","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"NEW CASTLE PUB LIBR","institutionSymbol":"QNC","institutionState":"PA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"NEW JERSEY ILL ACCESS CTR","institutionSymbol":"NJQ","institutionState":"NJ","requestsFilled":"4","fileYear":"2022","fileMonth":"september"},{"name":"NEW YORK PUB LIBR","institutionSymbol":"NYP","institutionState":"NY","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"NEWPORT PUB LIBR","institutionSymbol":"OXA","institutionState":"OR","requestsFilled":"4","fileYear":"2022","fileMonth":"september"},{"name":"NORFOLK PUB LIBR","institutionSymbol":"TWE","institutionState":"VA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"NORTH DAKOTA STATE LIBR","institutionSymbol":"NDS","institutionState":"ND","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"NORTH OLYMPIC LIBR SYST","institutionSymbol":"NOQ","institutionState":"WA","requestsFilled":"9","fileYear":"2022","fileMonth":"september"},{"name":"NORTH PLAINS PUB LIBR","institutionSymbol":"NOPPL","institutionState":"OR","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"NORTH SUBURBAN PUB LIBR DIST ROSCOE BR","institutionSymbol":"I#X","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"OC PUBLIC LIBRARIES","institutionSymbol":"ORK","institutionState":"CA","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"OCCIDENTAL COL LIBR","institutionSymbol":"CCO","institutionState":"CA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"OHIO UNIV","institutionSymbol":"OUN","institutionState":"OH","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"OKLAHOMA STATE UNIV","institutionSymbol":"OKS","institutionState":"OK","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"OLATHE PUB LIBR","institutionSymbol":"KOP","institutionState":"KS","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"ORCAS ISLAND LIBR DIST","institutionSymbol":"Z66","institutionState":"WA","requestsFilled":"9","fileYear":"2022","fileMonth":"september"},{"name":"OREGON HEALTH & SCI UNIV","institutionSymbol":"OHS","institutionState":"OR","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"OREGON STATE UNIV CORVALLIS","institutionSymbol":"ORE","institutionState":"OR","requestsFilled":"9","fileYear":"2022","fileMonth":"september"},{"name":"PACIFIC LUTHERAN UNIV","institutionSymbol":"OPV","institutionState":"WA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"PACIFIC NORTHWEST NAT LAB","institutionSymbol":"OIQ","institutionState":"WA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"PACIFIC UNIV","institutionSymbol":"OPU","institutionState":"OR","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"PALM BEACH ATLANTIC UNIV LIBR","institutionSymbol":"FBB","institutionState":"FL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"PALM BEACH CNTY LIBR SYST","institutionSymbol":"FWP","institutionState":"FL","requestsFilled":"4","fileYear":"2022","fileMonth":"september"},{"name":"PATRICK HENRY COL LIBR","institutionSymbol":"P$H","institutionState":"VA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"PAUL SAWYIER PUB LIBR","institutionSymbol":"KL8","institutionState":"KY","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"PAYETTE PUB LIBR","institutionSymbol":"P5Y","institutionState":"ID","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"PEND OREILLE CNTY LIBR DIST","institutionSymbol":"XRQ","institutionState":"WA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"PIERCE CNTY LIBR SYST","institutionSymbol":"RLS","institutionState":"WA","requestsFilled":"60","fileYear":"2022","fileMonth":"september"},{"name":"PIKES PEAK LIBR DIST","institutionSymbol":"CQU","institutionState":"CO","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"PIMA CNTY PUB LIBR","institutionSymbol":"AZT","institutionState":"AZ","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"PIONEER LIBR SYST","institutionSymbol":"OKM","institutionState":"OK","requestsFilled":"3","fileYear":"2022","fileMonth":"september"},{"name":"POINT LOMA NAZARENE UNIV LIBR","institutionSymbol":"CPT","institutionState":"CA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"PORT TOWNSEND PUB LIBR","institutionSymbol":"AA3","institutionState":"WA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"PORTAGE CNTY PUB LIBR","institutionSymbol":"WJQ","institutionState":"WI","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"PORTLAND PUB LIBR","institutionSymbol":"PPN","institutionState":"ME","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"PRATT INST LIBRS","institutionSymbol":"VZQ","institutionState":"NY","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"PRESCOTT PUB LIBR","institutionSymbol":"ZPT","institutionState":"AZ","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"PRESIDENT MILLARD FILLMORE LIBR","institutionSymbol":"FILLM","institutionState":"UT","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"PROVIDENCE COL, PHILLIPS MEM LIBR","institutionSymbol":"PRC","institutionState":"RI","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"QUEENS BOROUGH PUB LIBR","institutionSymbol":"ZQP","institutionState":"NY","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"QUEENS UNIV LIBR","institutionSymbol":"Q2U","institutionState":"ON","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"RHODE ISLAND OFF OF LIBR & INFO SERVS","institutionSymbol":"RDS","institutionState":"RI","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"ROCKFORD PUB LIBR","institutionSymbol":"JBO","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"ROYAL DANISH LIBR - COPENHAGEN CUL DKB","institutionSymbol":"DKB","institutionState":"EU","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"RUTGERS UNIV","institutionSymbol":"NJR","institutionState":"NJ","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"RUTHERFORD CNTY LIBR SYST","institutionSymbol":"TNLPL","institutionState":"TN","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SAINT ANSELM COL","institutionSymbol":"SAC","institutionState":"NH","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SAINT CHARLES CITY-CNTY LIBR DIST","institutionSymbol":"ZAC","institutionState":"MO","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"SAINT CHARLES PUB LIBR DIST","institutionSymbol":"PX0","institutionState":"IL","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"SAINT JOSEPH PUB LIBR","institutionSymbol":"MQP","institutionState":"MO","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SAINT LOUIS CNTY LIBR","institutionSymbol":"ZAE","institutionState":"MO","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SAINT MARTIN'S UNIV","institutionSymbol":"WSL","institutionState":"WA","requestsFilled":"3","fileYear":"2022","fileMonth":"september"},{"name":"SAINT MARY'S COL LIBR","institutionSymbol":"GH0","institutionState":"CA","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"SAINT TAMMANY PARISH LIBR","institutionSymbol":"LTP","institutionState":"LA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SALEM PUB LIBR","institutionSymbol":"OSE","institutionState":"OR","requestsFilled":"3","fileYear":"2022","fileMonth":"september"},{"name":"SALEM STATE UNIV","institutionSymbol":"SST","institutionState":"MA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SALIDA REG LIBR","institutionSymbol":"BV#","institutionState":"CO","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"SALT LAKE CITY PUB LIBR","institutionSymbol":"UUP","institutionState":"UT","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"SALT LAKE CNTY LIBR SVC","institutionSymbol":"UUC","institutionState":"UT","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"SAN ANTONIO PUB LIBR","institutionSymbol":"SAP","institutionState":"TX","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"SAN DIEGO PUB LIBR","institutionSymbol":"JTB","institutionState":"CA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SAN FRANCISCO PUB LIBR","institutionSymbol":"SFR","institutionState":"CA","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"SAN JUAN ISLAND LIBR DIST","institutionSymbol":"SJI","institutionState":"WA","requestsFilled":"6","fileYear":"2022","fileMonth":"september"},{"name":"SANTA CRUZ PUB LIBRS","institutionSymbol":"JTA","institutionState":"CA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SARATOGA BRCH LIBR","institutionSymbol":"WYSBL","institutionState":"WY","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SCOTTSDALE PUB LIBR","institutionSymbol":"AZD","institutionState":"AZ","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SEASIDE PUB LIBR","institutionSymbol":"XV9","institutionState":"OR","requestsFilled":"4","fileYear":"2022","fileMonth":"september"},{"name":"SEATTLE PUB LIBR","institutionSymbol":"UOK","institutionState":"WA","requestsFilled":"7","fileYear":"2022","fileMonth":"september"},{"name":"SEATTLE UNIV","institutionSymbol":"WSE","institutionState":"WA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SEDONA PUB LIBR","institutionSymbol":"FY3","institutionState":"AZ","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SETON HALL UNIV","institutionSymbol":"STH","institutionState":"NJ","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SHERIDAN CNTY FULMER PUB LIBR","institutionSymbol":"W5F","institutionState":"WY","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"SHERWOOD PUB LIBR","institutionSymbol":"OXE","institutionState":"OR","requestsFilled":"7","fileYear":"2022","fileMonth":"september"},{"name":"SIERRA VISTA PUB LIBR","institutionSymbol":"SVZ","institutionState":"AZ","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SIOUXLAND LIBR","institutionSymbol":"SDD","institutionState":"SD","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"SNO-ISLE LIBRS","institutionSymbol":"OEM","institutionState":"WA","requestsFilled":"15","fileYear":"2022","fileMonth":"september"},{"name":"SOMERSET CNTY LIBR","institutionSymbol":"SOM","institutionState":"NJ","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SPOKANE CNTY LIBR DIST","institutionSymbol":"WSN","institutionState":"WA","requestsFilled":"16","fileYear":"2022","fileMonth":"september"},{"name":"SPOKANE PUB LIBR","institutionSymbol":"UAG","institutionState":"WA","requestsFilled":"24","fileYear":"2022","fileMonth":"september"},{"name":"SPRINGFIELD CITY LIBR","institutionSymbol":"WRS","institutionState":"MA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SPRINGFIELD GREENE CNTY LIBR","institutionSymbol":"MOS","institutionState":"MO","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"STANFORD UNIV INTERLIBRARY SERVS","institutionSymbol":"ST2","institutionState":"CA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"STATE LIBR OF LOUISIANA ISO ILL","institutionSymbol":"AGLSL","institutionState":"LA","requestsFilled":"19","fileYear":"2022","fileMonth":"september"},{"name":"STILLWATER PUB LIBR","institutionSymbol":"STW","institutionState":"OK","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"STONEHILL COL","institutionSymbol":"STO","institutionState":"MA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SUMMIT CNTY LIBR SYST, KAMAS BRANCH","institutionSymbol":"UTSUM","institutionState":"UT","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SUNY AT BINGHAMTON","institutionSymbol":"BNG","institutionState":"NY","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"SUNY COL AT FREDONIA","institutionSymbol":"XFM","institutionState":"NY","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"TACOMA PUB LIBR","institutionSymbol":"TAW","institutionState":"WA","requestsFilled":"3","fileYear":"2022","fileMonth":"september"},{"name":"TAMPA-HILLSBOROUGH CNTY PUB LIBR","institutionSymbol":"TNH","institutionState":"FL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"TETON CNTY LIBR","institutionSymbol":"W8T","institutionState":"WY","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"TEXAS A&M UNIV","institutionSymbol":"TXA","institutionState":"TX","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"TEXAS TECH UNIV","institutionSymbol":"ILU","institutionState":"TX","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"THE LIBRS OF STEVENS CNTY","institutionSymbol":"LZS","institutionState":"WA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"THOMAS BRANIGAN MEM PUB LIBR","institutionSymbol":"TBL","institutionState":"NM","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"TIGARD PUB LIBR","institutionSymbol":"OQW","institutionState":"OR","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"TILLAMOOK CNTY LIBR","institutionSymbol":"TCO","institutionState":"OR","requestsFilled":"3","fileYear":"2022","fileMonth":"september"},{"name":"TIMBERLAND REG LIBR","institutionSymbol":"UOJ","institutionState":"WA","requestsFilled":"35","fileYear":"2022","fileMonth":"september"},{"name":"TIPP CITY PUB LIBR","institutionSymbol":"OHTCP","institutionState":"OH","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"TROY UNIV LIBR","institutionSymbol":"ADA","institutionState":"AL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"TUALATIN PUB LIBR","institutionSymbol":"OQS","institutionState":"OR","requestsFilled":"3","fileYear":"2022","fileMonth":"september"},{"name":"TWIN RIVERS CORRECTIONS CTR LIBR","institutionSymbol":"Z72","institutionState":"WA","requestsFilled":"5","fileYear":"2022","fileMonth":"september"},{"name":"TYE PRESTON MEM LIBR","institutionSymbol":"TYPML","institutionState":"TX","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"UNIV OF CALIFORNIA BERKELEY LIBR","institutionSymbol":"CUY","institutionState":"CA","requestsFilled":"9","fileYear":"2022","fileMonth":"september"},{"name":"UNIV OF CALIFORNIA, LOS ANGELES","institutionSymbol":"CLU","institutionState":"CA","requestsFilled":"4","fileYear":"2022","fileMonth":"september"},{"name":"UNIV OF CALIFORNIA, RIVERSIDE","institutionSymbol":"CRU","institutionState":"CA","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"UNIV OF CHICAGO","institutionSymbol":"CGU","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"UNIV OF ESSEX","institutionSymbol":"EUE","institutionState":"EU","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"UNIV OF EVANSVILLE LIBR","institutionSymbol":"IUE","institutionState":"IN","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"UNIV OF HAWAII AT MANOA LIBR","institutionSymbol":"HUH","institutionState":"HI","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"UNIV OF IOWA LIBR","institutionSymbol":"NUI","institutionState":"IA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"UNIV OF MARYLAND, COL PARK","institutionSymbol":"UMC","institutionState":"MD","requestsFilled":"9","fileYear":"2022","fileMonth":"september"},{"name":"UNIV OF NEVADA RENO","institutionSymbol":"NNY","institutionState":"NV","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"UNIV OF OREGON LIBR","institutionSymbol":"ORU","institutionState":"OR","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"UNIV OF S CAROLINA","institutionSymbol":"SUC","institutionState":"SC","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"UNIV OF SOUTHERN CALIFORNIA","institutionSymbol":"CSL","institutionState":"CA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"UNIV OF TASMANIA LIBR","institutionSymbol":"LT0","institutionState":"AS","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"UNIV OF WASHINGTON LIBR","institutionSymbol":"WAU","institutionState":"WA","requestsFilled":"4","fileYear":"2022","fileMonth":"september"},{"name":"UNIV OF WISCONSIN, STEVENS POINT","institutionSymbol":"WIS","institutionState":"WI","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"UNIV OF WISCONSIN, STOUT","institutionSymbol":"GZS","institutionState":"WI","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"UTAH COUN BOOKMOBILE LIBR","institutionSymbol":"UTAHB","institutionState":"UT","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"VASSAR COL","institutionSymbol":"VXW","institutionState":"NY","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"VERMONT DEPT OF LIBR, PROC CTR","institutionSymbol":"VSS","institutionState":"VT","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"VITERBO UNIV LIBRARY.","institutionSymbol":"ZR1","institutionState":"WI","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"WALDRON ISLAND SCH LIBR","institutionSymbol":"WISLI","institutionState":"WA","requestsFilled":"3","fileYear":"2022","fileMonth":"september"},{"name":"WALLA WALLA CNTY RURAL LIBR DIST","institutionSymbol":"XVJ","institutionState":"WA","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"WARREN NEWPORT PUB LIBR DIST","institutionSymbol":"IHZ","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"WASHINGTON & LEE UNIV","institutionSymbol":"VLW","institutionState":"VA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"WASHINGTON CNTY COOP LIBR","institutionSymbol":"OQX","institutionState":"OR","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"WASHINGTON STATE LAW LIBR","institutionSymbol":"Z@5","institutionState":"WA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"WASHINGTON STATE UNIV LIBR","institutionSymbol":"WS7","institutionState":"WA","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"WASHOE CNTY LIBR SYST","institutionSymbol":"NUW","institutionState":"NV","requestsFilled":"3","fileYear":"2022","fileMonth":"september"},{"name":"WAUCONDA AREA PUB LIBR DIST","institutionSymbol":"DV1","institutionState":"IL","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"WEBER STATE UNIV","institutionSymbol":"UUO","institutionState":"UT","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"WEST CHICAGO PUB LIBR DIST","institutionSymbol":"JOV","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"WEST VIRGINIA UNIV LIBR","institutionSymbol":"WVU","institutionState":"WV","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"WESTCHESTER LIBR SYST","institutionSymbol":"VVW","institutionState":"NY","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"WESTERN OREGON UNIV LIBR","institutionSymbol":"WOS","institutionState":"OR","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"WESTERN WYOMING COMMUN COL","institutionSymbol":"WYR","institutionState":"WY","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"WESTMINSTER COL","institutionSymbol":"MOW","institutionState":"MO","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"WHATCOM CNTY LIBR SYST","institutionSymbol":"WC4","institutionState":"WA","requestsFilled":"31","fileYear":"2022","fileMonth":"september"},{"name":"WHEATON COL","institutionSymbol":"ICW","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"WHITE PINE LIBR COOP","institutionSymbol":"EZW","institutionState":"MI","requestsFilled":"2","fileYear":"2022","fileMonth":"september"},{"name":"WHITMAN COL, PENROSE MEM LIBR","institutionSymbol":"HTM","institutionState":"WA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"WICHITA PUB LIBR","institutionSymbol":"KFW","institutionState":"KS","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"WILLAMETTE UNIV LIBR","institutionSymbol":"OWS","institutionState":"OR","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"WILLIAM PATERSON UNIV OF NEW JERSEY LIBR","institutionSymbol":"NJP","institutionState":"NJ","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"WILLIAMSBURG REG LIBR","institutionSymbol":"VAK","institutionState":"VA","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"WINNEFOX LIBR SYST","institutionSymbol":"GZK","institutionState":"WI","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"WINTER PARK PUB LIBR","institutionSymbol":"CG4","institutionState":"FL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"WOODSTOCK PUB LIBR","institutionSymbol":"LF8","institutionState":"IL","requestsFilled":"1","fileYear":"2022","fileMonth":"september"},{"name":"YAKIMA VAL LIBRS","institutionSymbol":"YVR","institutionState":"WA","requestsFilled":"2","fileYear":"2022","fileMonth":"september"}]
+[
+  {
+    "name": "ABILENE PUB LIBR",
+    "institutionSymbol": "TXB",
+    "institutionState": "TX",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "4",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "ALASKA 1-800",
+    "institutionSymbol": "ALASK",
+    "institutionState": "AK",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "7",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "ALBUQUERQUE BERNALILLO CNTY LIBR",
+    "institutionSymbol": "QUE",
+    "institutionState": "NM",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "ALLEN CNTY PUB LIBR",
+    "institutionSymbol": "IMF",
+    "institutionState": "IN",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "ALOHA COM LIBR",
+    "institutionSymbol": "ALOHA",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "ANACORTES PUB LIBR",
+    "institutionSymbol": "XFG",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "ANGELO STATE UNIV",
+    "institutionSymbol": "ANG",
+    "institutionState": "TX",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "ANN ARBOR DIST LIBR",
+    "institutionSymbol": "EYH",
+    "institutionState": "MI",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "ANNE ARUNDEL CNTY PUB LIBR",
+    "institutionSymbol": "A2A",
+    "institutionState": "MD",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "ARAPAHOE LIBR DIST",
+    "institutionSymbol": "CO2",
+    "institutionState": "CO",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "ARKANSAS STATE LIBR",
+    "institutionSymbol": "AST",
+    "institutionState": "AR",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "ASTORIA PUB LIBR",
+    "institutionSymbol": "OOO",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "AURORA PUB LIBR",
+    "institutionSymbol": "JSE",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "4",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "BANGOR PUB LIBR",
+    "institutionSymbol": "BYN",
+    "institutionState": "ME",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "BARRINGTON AREA LIBR",
+    "institutionSymbol": "GK6",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "BARTHOLOMEW CNTY PUB LIBR",
+    "institutionSymbol": "INB",
+    "institutionState": "IN",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "BASIL ANTHONY MOREAU MEM LIBR (BUDA PL)",
+    "institutionSymbol": "BUDAP",
+    "institutionState": "TX",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "BEAVERTON CITY LIBR",
+    "institutionSymbol": "OXO",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "4",
+    "lendingRequestsMade": "11",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "BELLINGHAM PUB LIBR",
+    "institutionSymbol": "BLP",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "BENBROOK PUB LIBR",
+    "institutionSymbol": "BENPL",
+    "institutionState": "TX",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "BETHLEHEM AREA PUB LIBR",
+    "institutionSymbol": "PBL",
+    "institutionState": "PA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "BOSTON COL",
+    "institutionSymbol": "BXM",
+    "institutionState": "MA",
+    "lendingRequestsFilled": "5",
+    "lendingRequestsMade": "12",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "BOZEMAN PUB LIBR",
+    "institutionSymbol": "MZG",
+    "institutionState": "MT",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "5",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "BRIGHAM YOUNG UNIV PROVO",
+    "institutionSymbol": "UBY",
+    "institutionState": "UT",
+    "lendingRequestsFilled": "12",
+    "lendingRequestsMade": "20",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "BROWARD CNTY LIBRS DIV",
+    "institutionSymbol": "FBR",
+    "institutionState": "FL",
+    "lendingRequestsFilled": "3",
+    "lendingRequestsMade": "6",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "BUFFALO & ERIE CNTY PUB LIBR",
+    "institutionSymbol": "VHB",
+    "institutionState": "NY",
+    "lendingRequestsFilled": "9",
+    "lendingRequestsMade": "19",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "BUTTE-SILVER BOW PUB LIBR",
+    "institutionSymbol": "MZE",
+    "institutionState": "MT",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CALIFORNIA LUTHERAN UNIV",
+    "institutionSymbol": "CCT",
+    "institutionState": "CA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CALIFORNIA STATE UNIV NORTHRIDGE",
+    "institutionSymbol": "CNO",
+    "institutionState": "CA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CALIFORNIA STATE UNIV-LONG BEACH LIBR",
+    "institutionSymbol": "CLO",
+    "institutionState": "CA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CAMAS PUB LIBR",
+    "institutionSymbol": "Z#6",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CEDAR MILL COMMUN LIBR",
+    "institutionSymbol": "OXD",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "4",
+    "lendingRequestsMade": "6",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CENTRAL WASHINGTON UNIV LIBR",
+    "institutionSymbol": "CWU",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "6",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CENTURY COL",
+    "institutionSymbol": "LCO",
+    "institutionState": "MN",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CHARLESTON CNTY LIBR",
+    "institutionSymbol": "SXC",
+    "institutionState": "SC",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CHARLOTTE MECKLENBURG LIBR",
+    "institutionSymbol": "NPC",
+    "institutionState": "NC",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CHATTAHOOCHEE VAL LIBRS",
+    "institutionSymbol": "GCV",
+    "institutionState": "GA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CHESTER CNTY LIBR & DIST CTR",
+    "institutionSymbol": "PWC",
+    "institutionState": "PA",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CHICAGO PUB LIBR",
+    "institutionSymbol": "CGP",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CHOTEAU-TETON PUB LIBR",
+    "institutionSymbol": "YUV",
+    "institutionState": "MT",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CITY OF COOS BAY-ESO",
+    "institutionSymbol": "BAY",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "7",
+    "lendingRequestsMade": "22",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "COBB CNTY PUB LIBR SYST",
+    "institutionSymbol": "ZGJ",
+    "institutionState": "GA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "COCHISE CNTY LIBR DIST",
+    "institutionSymbol": "BAZ",
+    "institutionState": "AZ",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "COEUR D'ALENE PUB LIBR",
+    "institutionSymbol": "ZVR",
+    "institutionState": "ID",
+    "lendingRequestsFilled": "9",
+    "lendingRequestsMade": "16",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "COLLEGE OF NEW JERSEY, THE",
+    "institutionSymbol": "NJT",
+    "institutionState": "NJ",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "COLUMBIA CNTY RURAL LIBR",
+    "institutionSymbol": "WACCR",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "COMMUNITY LIBR NETWORK",
+    "institutionSymbol": "K#T",
+    "institutionState": "ID",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "14",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "COMMUNITY LIBR NETWORK@POST FALLS",
+    "institutionSymbol": "P9F",
+    "institutionState": "ID",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "14",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CONCORDIA UNIV LIBR",
+    "institutionSymbol": "CDN",
+    "institutionState": "QC",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CORBAN UNIV LIBR",
+    "institutionSymbol": "OOY",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CORNELIUS PUB LIBR",
+    "institutionSymbol": "OQU",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "COUNCIL BLUFFS PUB LIBR",
+    "institutionSymbol": "IWB",
+    "institutionState": "IA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "COZBY LIBR & COM COMMONS",
+    "institutionSymbol": "WT2",
+    "institutionState": "TX",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CRAB ORCHARD PUBL LIBR DIST",
+    "institutionSymbol": "YYO",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CROOK CNTY LIBR",
+    "institutionSymbol": "CCLIB",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "4",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "CUNY THE GRAD CTR LIBR",
+    "institutionSymbol": "ZGM",
+    "institutionState": "NY",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "DAKOTA CNTY LIBR SYST",
+    "institutionSymbol": "DCB",
+    "institutionState": "MN",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "DANIEL BOONE REG LIBR",
+    "institutionSymbol": "ZAB",
+    "institutionState": "MO",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "DELAWARE CNTY LIBR SYST",
+    "institutionSymbol": "DEL",
+    "institutionState": "PA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "DENVER PUB LIBR",
+    "institutionSymbol": "DPL",
+    "institutionState": "CO",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "5",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "DESCHUTES PUB LIBR",
+    "institutionSymbol": "DCH",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "8",
+    "lendingRequestsMade": "15",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "DOUGLAS CNTY LIBRS",
+    "institutionSymbol": "DAD",
+    "institutionState": "CO",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "DOVER PUB LIBR",
+    "institutionSymbol": "DOV",
+    "institutionState": "DE",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "EAST BONNER CNTY LIBR",
+    "institutionSymbol": "E4B",
+    "institutionState": "ID",
+    "lendingRequestsFilled": "4",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "EVANSTON PUB LIBR",
+    "institutionSymbol": "IHE",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "EVERETT PUB LIBR",
+    "institutionSymbol": "UAI",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "10",
+    "lendingRequestsMade": "15",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "FAIRBANKS N STAR BOROUGH LIBR",
+    "institutionSymbol": "X#4",
+    "institutionState": "AK",
+    "lendingRequestsFilled": "3",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "FINDLAY HANCOCK PUB LIBR",
+    "institutionSymbol": "FPL",
+    "institutionState": "OH",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "FLAGSTAFF CITY, COCONINO CNTY LIBR",
+    "institutionSymbol": "AZH",
+    "institutionState": "AZ",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "FOREST GROVE PUB LIBR",
+    "institutionSymbol": "ORI",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "FOREST PARK PUB LIBR",
+    "institutionSymbol": "TO9",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "FORSYTH CNTY PUB LIBR",
+    "institutionSymbol": "Y32",
+    "institutionState": "GA",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "FORT BEND CNTY LIBRS",
+    "institutionSymbol": "FTX",
+    "institutionState": "TX",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "FORT VANCOUVER REG LIBR",
+    "institutionSymbol": "YEP",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "4",
+    "lendingRequestsMade": "7",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "FRANKFORT PUB LIBR DIST",
+    "institutionSymbol": "TM3",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "GEAUGA CNTY PUB LIBR",
+    "institutionSymbol": "GEC",
+    "institutionState": "OH",
+    "lendingRequestsFilled": "6",
+    "lendingRequestsMade": "6",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "GENEVA PUB LIBR DIST",
+    "institutionSymbol": "JSY",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "GLENDALE LIBR ARTS & CULTURE",
+    "institutionSymbol": "CGL",
+    "institutionState": "CA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "GLENDALE PUB LIBR",
+    "institutionSymbol": "VTL",
+    "institutionState": "AZ",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "GLENVIEW PUB LIBR",
+    "institutionSymbol": "FM0",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "GONZAGA UNIV",
+    "institutionSymbol": "WUG",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "GOSHEN COLL LIBR",
+    "institutionSymbol": "IGC",
+    "institutionState": "IN",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "GRACE A DOW MEM LIBR",
+    "institutionSymbol": "GDM",
+    "institutionState": "MI",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "GREAT RIVER REG LIBR",
+    "institutionSymbol": "GRR",
+    "institutionState": "MN",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "6",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "GREENE CNTY PUB LIBR",
+    "institutionSymbol": "GRC",
+    "institutionState": "OH",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "GREENVILLE CNTY LIBR",
+    "institutionSymbol": "SGR",
+    "institutionState": "SC",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "4",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "HANSEN COMMUN LIBR",
+    "institutionSymbol": "HANCL",
+    "institutionState": "ID",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "HARRIS CNTY PUB LIBR",
+    "institutionSymbol": "HT#",
+    "institutionState": "TX",
+    "lendingRequestsFilled": "4",
+    "lendingRequestsMade": "13",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "HARVARD UNIV",
+    "institutionSymbol": "HUL",
+    "institutionState": "MA",
+    "lendingRequestsFilled": "3",
+    "lendingRequestsMade": "7",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "HELEN HALL LIBR",
+    "institutionSymbol": "T7L",
+    "institutionState": "TX",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "HENNEPIN CNTY LIBR",
+    "institutionSymbol": "HCO",
+    "institutionState": "MN",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "HIGH PLAINS LIBR DIST",
+    "institutionSymbol": "SO$",
+    "institutionState": "CO",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "HIGHLAND CITY LIBR",
+    "institutionSymbol": "HGHLN",
+    "institutionState": "UT",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "HILLSBORO PUB LIBR",
+    "institutionSymbol": "OOV",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "5",
+    "lendingRequestsMade": "12",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "HILLSDALE COL, MOSSEY LIBR",
+    "institutionSymbol": "EEI",
+    "institutionState": "MI",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "HOFSTRA UNIV",
+    "institutionSymbol": "ZIH",
+    "institutionState": "NY",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "HORRY CNTY MEM LIBR",
+    "institutionSymbol": "SHM",
+    "institutionState": "SC",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "HOUGHTON COLL",
+    "institutionSymbol": "VXO",
+    "institutionState": "NY",
+    "lendingRequestsFilled": "3",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "HOUSTON PUB LIBR",
+    "institutionSymbol": "TXN",
+    "institutionState": "TX",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "6",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "HUMBOLDT CNTY LIBR",
+    "institutionSymbol": "EHU",
+    "institutionState": "CA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "HUNTLEY AREA PUB LIBR DIST",
+    "institutionSymbol": "GL7",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "IMAGINEIF LIBRS FLATHEAD CNTY",
+    "institutionSymbol": "MZC",
+    "institutionState": "MT",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "INDIAN TRAILS PUB LIBR DIST",
+    "institutionSymbol": "JAG",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "INDIANA ST LIB",
+    "institutionSymbol": "SHARE",
+    "institutionState": "IN",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "INDIANAPOLIS PUB LIBR",
+    "institutionSymbol": "IMD",
+    "institutionState": "IN",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "IOWA CITY PUB LIBR",
+    "institutionSymbol": "LXY",
+    "institutionState": "IA",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "IOWA STATE UNIV",
+    "institutionSymbol": "IWA",
+    "institutionState": "IA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "IRENE INGLE PUB LIBR",
+    "institutionSymbol": "I@I",
+    "institutionState": "AK",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "IRON CNTY BOOKMOBILE LIBR",
+    "institutionSymbol": "UTIRN",
+    "institutionState": "UT",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "IRVING PUB LIBR SYST",
+    "institutionSymbol": "IJC",
+    "institutionState": "TX",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "JACKSON CNTY LIBR SVC",
+    "institutionSymbol": "JCL",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "10",
+    "lendingRequestsMade": "16",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "JAMES MADISON UNIV LIBRS",
+    "institutionSymbol": "VMC",
+    "institutionState": "VA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "JAMES V BROWN LIBR",
+    "institutionSymbol": "JVB",
+    "institutionState": "PA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "JEFFERSON CNTY PUB LIBR",
+    "institutionSymbol": "QQ3",
+    "institutionState": "CO",
+    "lendingRequestsFilled": "4",
+    "lendingRequestsMade": "12",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "JEFFERSON PARISH LIBR",
+    "institutionSymbol": "LMJ",
+    "institutionState": "LA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "JEROME PUB LIBR",
+    "institutionSymbol": "J@R",
+    "institutionState": "ID",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "JOHNSON & WALES UNIV PROVIDENCE LIBR",
+    "institutionSymbol": "PJW",
+    "institutionState": "RI",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "JOHNSON CNTY LIBR",
+    "institutionSymbol": "KNJ",
+    "institutionState": "KS",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "5",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "JOHNSON CNTY PUB LIBR",
+    "institutionSymbol": "KH4",
+    "institutionState": "KY",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "JOINT BASE ELMENDORF-RICHARDSON LIBR",
+    "institutionSymbol": "AYI",
+    "institutionState": "AK",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "JOINT BASE LEWIS-MCCHORD LIBRARY SYSTEM",
+    "institutionSymbol": "AVW",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "5",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "JOPLIN PUB LIBR",
+    "institutionSymbol": "MQY",
+    "institutionState": "MO",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "KETCHIKAN PUB LIBR",
+    "institutionSymbol": "Q2Z",
+    "institutionState": "AK",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "KIMBALL JUNCTION BRANCH SUMMIT CNTY LIBR",
+    "institutionSymbol": "SUMCL",
+    "institutionState": "UT",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "KIMBERLY PUB LIBR",
+    "institutionSymbol": "KIMPL",
+    "institutionState": "ID",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "KITSAP REG LIBR",
+    "institutionSymbol": "YEQ",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "38",
+    "lendingRequestsMade": "72",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "KLAMATH CNTY LIBR SERV DIST",
+    "institutionSymbol": "KCL",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "7",
+    "lendingRequestsMade": "22",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "LAS VEGAS CLARK CNTY LIBR DIST",
+    "institutionSymbol": "NVC",
+    "institutionState": "NV",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "6",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "LAWRENCE PUB LIBR",
+    "institutionSymbol": "KSA",
+    "institutionState": "KS",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "LEE CNTY LIBR SYST",
+    "institutionSymbol": "FFL",
+    "institutionState": "FL",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "LEROY COLLINS LEON CNTY PUB LIBR",
+    "institutionSymbol": "FTL",
+    "institutionState": "FL",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "5",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "LEWIS & CLARK COL",
+    "institutionSymbol": "OLP",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "4",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "LEWIS & CLARK LIBR",
+    "institutionSymbol": "LQN",
+    "institutionState": "MT",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "LIBERTY LAKE MUNICIPAL LIB",
+    "institutionSymbol": "LIBLM",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "4",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "LIBRARIES IN CLACKAMAS CNTY",
+    "institutionSymbol": "LIQ",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "9",
+    "lendingRequestsMade": "20",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "LICKING CNTY LIBR",
+    "institutionSymbol": "ONW",
+    "institutionState": "OH",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "LINCOLN CNTY LIBR DIST",
+    "institutionSymbol": "LCS",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "LONGMONT PUB LIBR",
+    "institutionSymbol": "CNL",
+    "institutionState": "CO",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "LOPEZ ISLAND LIBR",
+    "institutionSymbol": "Z67",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "4",
+    "lendingRequestsMade": "5",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "LOUISVILLE FREE PUB LIBR",
+    "institutionSymbol": "KLP",
+    "institutionState": "KY",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "MAINE STATE LIBRARY",
+    "institutionSymbol": "MEA",
+    "institutionState": "ME",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "MANATEE CNTY PUB LIBR SYST",
+    "institutionSymbol": "FMA",
+    "institutionState": "FL",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "MARION CNTY LIBR SUBDISTRICT #1",
+    "institutionSymbol": "WZ9",
+    "institutionState": "MO",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "MARSHALL PUB LIBR",
+    "institutionSymbol": "Q6J",
+    "institutionState": "ID",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "MCGILL UNIV",
+    "institutionSymbol": "LGG",
+    "institutionState": "QC",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "MERIDIAN LIBR DIST",
+    "institutionSymbol": "ZPJ",
+    "institutionState": "ID",
+    "lendingRequestsFilled": "3",
+    "lendingRequestsMade": "5",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "MESSENGER PUB LIBR OF N AURORA",
+    "institutionSymbol": "TYV",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "MIAMI UNIV",
+    "institutionSymbol": "MIA",
+    "institutionState": "OH",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "MID-CONTINENT PUB LIBR",
+    "institutionSymbol": "CMI",
+    "institutionState": "MO",
+    "lendingRequestsFilled": "14",
+    "lendingRequestsMade": "28",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "MIDDLE TENNESSEE STATE UNIV",
+    "institutionSymbol": "TXM",
+    "institutionState": "TN",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "MISSOULA PUB LIBR",
+    "institutionSymbol": "Y38",
+    "institutionState": "MT",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "MONMOUTH UNIV LIBR",
+    "institutionSymbol": "MMT",
+    "institutionState": "NJ",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "MONTEREY CNTY FREE LIBRS",
+    "institutionSymbol": "JRB",
+    "institutionState": "CA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "MONTGOMERY CNTY, NORRISTOWN PUB LIBR",
+    "institutionSymbol": "MNL",
+    "institutionState": "PA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "4",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "MOUNTAIN HOME PUB LIBR",
+    "institutionSymbol": "MTHPL",
+    "institutionState": "ID",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "MULTNOMAH CNTY LIBR",
+    "institutionSymbol": "ORX",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "19",
+    "lendingRequestsMade": "27",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "NASSAU LIBR SYST",
+    "institutionSymbol": "NAB",
+    "institutionState": "NY",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "NEBRASKA DEPT OF CORR SERV",
+    "institutionSymbol": "WH5",
+    "institutionState": "NE",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "NEW CASTLE PUB LIBR",
+    "institutionSymbol": "QNC",
+    "institutionState": "PA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "NEW JERSEY ILL ACCESS CTR",
+    "institutionSymbol": "NJQ",
+    "institutionState": "NJ",
+    "lendingRequestsFilled": "4",
+    "lendingRequestsMade": "7",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "NEW YORK PUB LIBR",
+    "institutionSymbol": "NYP",
+    "institutionState": "NY",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "NEWPORT PUB LIBR",
+    "institutionSymbol": "OXA",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "4",
+    "lendingRequestsMade": "18",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "NORFOLK PUB LIBR",
+    "institutionSymbol": "TWE",
+    "institutionState": "VA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "NORTH DAKOTA STATE LIBR",
+    "institutionSymbol": "NDS",
+    "institutionState": "ND",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "NORTH OLYMPIC LIBR SYST",
+    "institutionSymbol": "NOQ",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "9",
+    "lendingRequestsMade": "21",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "NORTH PLAINS PUB LIBR",
+    "institutionSymbol": "NOPPL",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "NORTH SUBURBAN PUB LIBR DIST ROSCOE BR",
+    "institutionSymbol": "I#X",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "OC PUBLIC LIBRARIES",
+    "institutionSymbol": "ORK",
+    "institutionState": "CA",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "4",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "OCCIDENTAL COL LIBR",
+    "institutionSymbol": "CCO",
+    "institutionState": "CA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "OHIO UNIV",
+    "institutionSymbol": "OUN",
+    "institutionState": "OH",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "OKLAHOMA STATE UNIV",
+    "institutionSymbol": "OKS",
+    "institutionState": "OK",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "OLATHE PUB LIBR",
+    "institutionSymbol": "KOP",
+    "institutionState": "KS",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "ORCAS ISLAND LIBR DIST",
+    "institutionSymbol": "Z66",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "9",
+    "lendingRequestsMade": "14",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "OREGON HEALTH & SCI UNIV",
+    "institutionSymbol": "OHS",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "OREGON STATE UNIV CORVALLIS",
+    "institutionSymbol": "ORE",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "9",
+    "lendingRequestsMade": "17",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PACIFIC LUTHERAN UNIV",
+    "institutionSymbol": "OPV",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PACIFIC NORTHWEST NAT LAB",
+    "institutionSymbol": "OIQ",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PACIFIC UNIV",
+    "institutionSymbol": "OPU",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PALM BEACH ATLANTIC UNIV LIBR",
+    "institutionSymbol": "FBB",
+    "institutionState": "FL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PALM BEACH CNTY LIBR SYST",
+    "institutionSymbol": "FWP",
+    "institutionState": "FL",
+    "lendingRequestsFilled": "4",
+    "lendingRequestsMade": "4",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PATRICK HENRY COL LIBR",
+    "institutionSymbol": "P$H",
+    "institutionState": "VA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PAUL SAWYIER PUB LIBR",
+    "institutionSymbol": "KL8",
+    "institutionState": "KY",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PAYETTE PUB LIBR",
+    "institutionSymbol": "P5Y",
+    "institutionState": "ID",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PEND OREILLE CNTY LIBR DIST",
+    "institutionSymbol": "XRQ",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PIERCE CNTY LIBR SYST",
+    "institutionSymbol": "RLS",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "60",
+    "lendingRequestsMade": "179",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PIKES PEAK LIBR DIST",
+    "institutionSymbol": "CQU",
+    "institutionState": "CO",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "5",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PIMA CNTY PUB LIBR",
+    "institutionSymbol": "AZT",
+    "institutionState": "AZ",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "6",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PIONEER LIBR SYST",
+    "institutionSymbol": "OKM",
+    "institutionState": "OK",
+    "lendingRequestsFilled": "3",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "POINT LOMA NAZARENE UNIV LIBR",
+    "institutionSymbol": "CPT",
+    "institutionState": "CA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PORT TOWNSEND PUB LIBR",
+    "institutionSymbol": "AA3",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PORTAGE CNTY PUB LIBR",
+    "institutionSymbol": "WJQ",
+    "institutionState": "WI",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PORTLAND PUB LIBR",
+    "institutionSymbol": "PPN",
+    "institutionState": "ME",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PRATT INST LIBRS",
+    "institutionSymbol": "VZQ",
+    "institutionState": "NY",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PRESCOTT PUB LIBR",
+    "institutionSymbol": "ZPT",
+    "institutionState": "AZ",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PRESIDENT MILLARD FILLMORE LIBR",
+    "institutionSymbol": "FILLM",
+    "institutionState": "UT",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "PROVIDENCE COL, PHILLIPS MEM LIBR",
+    "institutionSymbol": "PRC",
+    "institutionState": "RI",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "QUEENS BOROUGH PUB LIBR",
+    "institutionSymbol": "ZQP",
+    "institutionState": "NY",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "QUEENS UNIV LIBR",
+    "institutionSymbol": "Q2U",
+    "institutionState": "ON",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "RHODE ISLAND OFF OF LIBR & INFO SERVS",
+    "institutionSymbol": "RDS",
+    "institutionState": "RI",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "4",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "ROCKFORD PUB LIBR",
+    "institutionSymbol": "JBO",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "ROYAL DANISH LIBR - COPENHAGEN CUL DKB",
+    "institutionSymbol": "DKB",
+    "institutionState": "EU",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "RUTGERS UNIV",
+    "institutionSymbol": "NJR",
+    "institutionState": "NJ",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "4",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "RUTHERFORD CNTY LIBR SYST",
+    "institutionSymbol": "TNLPL",
+    "institutionState": "TN",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SAINT ANSELM COL",
+    "institutionSymbol": "SAC",
+    "institutionState": "NH",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SAINT CHARLES CITY-CNTY LIBR DIST",
+    "institutionSymbol": "ZAC",
+    "institutionState": "MO",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SAINT CHARLES PUB LIBR DIST",
+    "institutionSymbol": "PX0",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SAINT JOSEPH PUB LIBR",
+    "institutionSymbol": "MQP",
+    "institutionState": "MO",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SAINT LOUIS CNTY LIBR",
+    "institutionSymbol": "ZAE",
+    "institutionState": "MO",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SAINT MARTIN'S UNIV",
+    "institutionSymbol": "WSL",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "3",
+    "lendingRequestsMade": "18",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SAINT MARY'S COL LIBR",
+    "institutionSymbol": "GH0",
+    "institutionState": "CA",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SAINT TAMMANY PARISH LIBR",
+    "institutionSymbol": "LTP",
+    "institutionState": "LA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "5",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SALEM PUB LIBR",
+    "institutionSymbol": "OSE",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "3",
+    "lendingRequestsMade": "4",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SALEM STATE UNIV",
+    "institutionSymbol": "SST",
+    "institutionState": "MA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SALIDA REG LIBR",
+    "institutionSymbol": "BV#",
+    "institutionState": "CO",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SALT LAKE CITY PUB LIBR",
+    "institutionSymbol": "UUP",
+    "institutionState": "UT",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "4",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SALT LAKE CNTY LIBR SVC",
+    "institutionSymbol": "UUC",
+    "institutionState": "UT",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "8",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SAN ANTONIO PUB LIBR",
+    "institutionSymbol": "SAP",
+    "institutionState": "TX",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SAN DIEGO PUB LIBR",
+    "institutionSymbol": "JTB",
+    "institutionState": "CA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SAN FRANCISCO PUB LIBR",
+    "institutionSymbol": "SFR",
+    "institutionState": "CA",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "4",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SAN JUAN ISLAND LIBR DIST",
+    "institutionSymbol": "SJI",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "6",
+    "lendingRequestsMade": "12",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SANTA CRUZ PUB LIBRS",
+    "institutionSymbol": "JTA",
+    "institutionState": "CA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SARATOGA BRCH LIBR",
+    "institutionSymbol": "WYSBL",
+    "institutionState": "WY",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SCOTTSDALE PUB LIBR",
+    "institutionSymbol": "AZD",
+    "institutionState": "AZ",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SEASIDE PUB LIBR",
+    "institutionSymbol": "XV9",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "4",
+    "lendingRequestsMade": "11",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SEATTLE PUB LIBR",
+    "institutionSymbol": "UOK",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "7",
+    "lendingRequestsMade": "26",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SEATTLE UNIV",
+    "institutionSymbol": "WSE",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SEDONA PUB LIBR",
+    "institutionSymbol": "FY3",
+    "institutionState": "AZ",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SETON HALL UNIV",
+    "institutionSymbol": "STH",
+    "institutionState": "NJ",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SHERIDAN CNTY FULMER PUB LIBR",
+    "institutionSymbol": "W5F",
+    "institutionState": "WY",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "4",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SHERWOOD PUB LIBR",
+    "institutionSymbol": "OXE",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "7",
+    "lendingRequestsMade": "8",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SIERRA VISTA PUB LIBR",
+    "institutionSymbol": "SVZ",
+    "institutionState": "AZ",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SIOUXLAND LIBR",
+    "institutionSymbol": "SDD",
+    "institutionState": "SD",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "5",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SNO-ISLE LIBRS",
+    "institutionSymbol": "OEM",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "15",
+    "lendingRequestsMade": "33",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SOMERSET CNTY LIBR",
+    "institutionSymbol": "SOM",
+    "institutionState": "NJ",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SPOKANE CNTY LIBR DIST",
+    "institutionSymbol": "WSN",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "16",
+    "lendingRequestsMade": "32",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SPOKANE PUB LIBR",
+    "institutionSymbol": "UAG",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "24",
+    "lendingRequestsMade": "45",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SPRINGFIELD CITY LIBR",
+    "institutionSymbol": "WRS",
+    "institutionState": "MA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SPRINGFIELD GREENE CNTY LIBR",
+    "institutionSymbol": "MOS",
+    "institutionState": "MO",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "7",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "STANFORD UNIV INTERLIBRARY SERVS",
+    "institutionSymbol": "ST2",
+    "institutionState": "CA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "STATE LIBR OF LOUISIANA ISO ILL",
+    "institutionSymbol": "AGLSL",
+    "institutionState": "LA",
+    "lendingRequestsFilled": "19",
+    "lendingRequestsMade": "40",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "STILLWATER PUB LIBR",
+    "institutionSymbol": "STW",
+    "institutionState": "OK",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "STONEHILL COL",
+    "institutionSymbol": "STO",
+    "institutionState": "MA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SUMMIT CNTY LIBR SYST, KAMAS BRANCH",
+    "institutionSymbol": "UTSUM",
+    "institutionState": "UT",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SUNY AT BINGHAMTON",
+    "institutionSymbol": "BNG",
+    "institutionState": "NY",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "SUNY COL AT FREDONIA",
+    "institutionSymbol": "XFM",
+    "institutionState": "NY",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "TACOMA PUB LIBR",
+    "institutionSymbol": "TAW",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "3",
+    "lendingRequestsMade": "5",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "TAMPA-HILLSBOROUGH CNTY PUB LIBR",
+    "institutionSymbol": "TNH",
+    "institutionState": "FL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "TETON CNTY LIBR",
+    "institutionSymbol": "W8T",
+    "institutionState": "WY",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "TEXAS A&M UNIV",
+    "institutionSymbol": "TXA",
+    "institutionState": "TX",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "TEXAS TECH UNIV",
+    "institutionSymbol": "ILU",
+    "institutionState": "TX",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "14",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "THE LIBRS OF STEVENS CNTY",
+    "institutionSymbol": "LZS",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "4",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "THOMAS BRANIGAN MEM PUB LIBR",
+    "institutionSymbol": "TBL",
+    "institutionState": "NM",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "TIGARD PUB LIBR",
+    "institutionSymbol": "OQW",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "5",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "TILLAMOOK CNTY LIBR",
+    "institutionSymbol": "TCO",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "3",
+    "lendingRequestsMade": "5",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "TIMBERLAND REG LIBR",
+    "institutionSymbol": "UOJ",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "35",
+    "lendingRequestsMade": "75",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "TIPP CITY PUB LIBR",
+    "institutionSymbol": "OHTCP",
+    "institutionState": "OH",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "TROY UNIV LIBR",
+    "institutionSymbol": "ADA",
+    "institutionState": "AL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "TUALATIN PUB LIBR",
+    "institutionSymbol": "OQS",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "3",
+    "lendingRequestsMade": "5",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "TWIN RIVERS CORRECTIONS CTR LIBR",
+    "institutionSymbol": "Z72",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "5",
+    "lendingRequestsMade": "8",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "TYE PRESTON MEM LIBR",
+    "institutionSymbol": "TYPML",
+    "institutionState": "TX",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "UNIV OF CALIFORNIA BERKELEY LIBR",
+    "institutionSymbol": "CUY",
+    "institutionState": "CA",
+    "lendingRequestsFilled": "9",
+    "lendingRequestsMade": "23",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "UNIV OF CALIFORNIA, LOS ANGELES",
+    "institutionSymbol": "CLU",
+    "institutionState": "CA",
+    "lendingRequestsFilled": "4",
+    "lendingRequestsMade": "28",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "UNIV OF CALIFORNIA, RIVERSIDE",
+    "institutionSymbol": "CRU",
+    "institutionState": "CA",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "6",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "UNIV OF CHICAGO",
+    "institutionSymbol": "CGU",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "UNIV OF ESSEX",
+    "institutionSymbol": "EUE",
+    "institutionState": "EU",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "UNIV OF EVANSVILLE LIBR",
+    "institutionSymbol": "IUE",
+    "institutionState": "IN",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "UNIV OF HAWAII AT MANOA LIBR",
+    "institutionSymbol": "HUH",
+    "institutionState": "HI",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "UNIV OF IOWA LIBR",
+    "institutionSymbol": "NUI",
+    "institutionState": "IA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "UNIV OF MARYLAND, COL PARK",
+    "institutionSymbol": "UMC",
+    "institutionState": "MD",
+    "lendingRequestsFilled": "9",
+    "lendingRequestsMade": "35",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "UNIV OF NEVADA RENO",
+    "institutionSymbol": "NNY",
+    "institutionState": "NV",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "UNIV OF OREGON LIBR",
+    "institutionSymbol": "ORU",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "6",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "UNIV OF S CAROLINA",
+    "institutionSymbol": "SUC",
+    "institutionState": "SC",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "4",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "UNIV OF SOUTHERN CALIFORNIA",
+    "institutionSymbol": "CSL",
+    "institutionState": "CA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "11",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "UNIV OF TASMANIA LIBR",
+    "institutionSymbol": "LT0",
+    "institutionState": "AS",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "UNIV OF WASHINGTON LIBR",
+    "institutionSymbol": "WAU",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "4",
+    "lendingRequestsMade": "18",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "UNIV OF WISCONSIN, STEVENS POINT",
+    "institutionSymbol": "WIS",
+    "institutionState": "WI",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "UNIV OF WISCONSIN, STOUT",
+    "institutionSymbol": "GZS",
+    "institutionState": "WI",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "5",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "UTAH COUN BOOKMOBILE LIBR",
+    "institutionSymbol": "UTAHB",
+    "institutionState": "UT",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "VASSAR COL",
+    "institutionSymbol": "VXW",
+    "institutionState": "NY",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "VERMONT DEPT OF LIBR, PROC CTR",
+    "institutionSymbol": "VSS",
+    "institutionState": "VT",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "VITERBO UNIV LIBRARY.",
+    "institutionSymbol": "ZR1",
+    "institutionState": "WI",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WALDRON ISLAND SCH LIBR",
+    "institutionSymbol": "WISLI",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "3",
+    "lendingRequestsMade": "6",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WALLA WALLA CNTY RURAL LIBR DIST",
+    "institutionSymbol": "XVJ",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "10",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WARREN NEWPORT PUB LIBR DIST",
+    "institutionSymbol": "IHZ",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WASHINGTON & LEE UNIV",
+    "institutionSymbol": "VLW",
+    "institutionState": "VA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WASHINGTON CNTY COOP LIBR",
+    "institutionSymbol": "OQX",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WASHINGTON STATE LAW LIBR",
+    "institutionSymbol": "Z@5",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WASHINGTON STATE UNIV LIBR",
+    "institutionSymbol": "WS7",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "20",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WASHOE CNTY LIBR SYST",
+    "institutionSymbol": "NUW",
+    "institutionState": "NV",
+    "lendingRequestsFilled": "3",
+    "lendingRequestsMade": "4",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WAUCONDA AREA PUB LIBR DIST",
+    "institutionSymbol": "DV1",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "3",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WEBER STATE UNIV",
+    "institutionSymbol": "UUO",
+    "institutionState": "UT",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WEST CHICAGO PUB LIBR DIST",
+    "institutionSymbol": "JOV",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WEST VIRGINIA UNIV LIBR",
+    "institutionSymbol": "WVU",
+    "institutionState": "WV",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "6",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WESTCHESTER LIBR SYST",
+    "institutionSymbol": "VVW",
+    "institutionState": "NY",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "6",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WESTERN OREGON UNIV LIBR",
+    "institutionSymbol": "WOS",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WESTERN WYOMING COMMUN COL",
+    "institutionSymbol": "WYR",
+    "institutionState": "WY",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WESTMINSTER COL",
+    "institutionSymbol": "MOW",
+    "institutionState": "MO",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WHATCOM CNTY LIBR SYST",
+    "institutionSymbol": "WC4",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "31",
+    "lendingRequestsMade": "56",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WHEATON COL",
+    "institutionSymbol": "ICW",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WHITE PINE LIBR COOP",
+    "institutionSymbol": "EZW",
+    "institutionState": "MI",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WHITMAN COL, PENROSE MEM LIBR",
+    "institutionSymbol": "HTM",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "6",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WICHITA PUB LIBR",
+    "institutionSymbol": "KFW",
+    "institutionState": "KS",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "2",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WILLAMETTE UNIV LIBR",
+    "institutionSymbol": "OWS",
+    "institutionState": "OR",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WILLIAM PATERSON UNIV OF NEW JERSEY LIBR",
+    "institutionSymbol": "NJP",
+    "institutionState": "NJ",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WILLIAMSBURG REG LIBR",
+    "institutionSymbol": "VAK",
+    "institutionState": "VA",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WINNEFOX LIBR SYST",
+    "institutionSymbol": "GZK",
+    "institutionState": "WI",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WINTER PARK PUB LIBR",
+    "institutionSymbol": "CG4",
+    "institutionState": "FL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "WOODSTOCK PUB LIBR",
+    "institutionSymbol": "LF8",
+    "institutionState": "IL",
+    "lendingRequestsFilled": "1",
+    "lendingRequestsMade": "1",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  },
+  {
+    "name": "YAKIMA VAL LIBRS",
+    "institutionSymbol": "YVR",
+    "institutionState": "WA",
+    "lendingRequestsFilled": "2",
+    "lendingRequestsMade": "7",
+    "fileYear": "2022",
+    "fileMonth": "september"
+  }
+]

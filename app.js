@@ -74,7 +74,8 @@ const extractDataFromCSV = (localDataSource) => {
           name: row[0],
           institutionSymbol: row[1],
           institutionState: row[2],
-          requestsFilled: row[7],
+          lendingRequestsFilled: row[7],
+          lendingRequestsMade: row[4],
           fileYear,
           fileMonth
         };
@@ -209,7 +210,12 @@ const fetchCoordinates = () => {
           institutionSymbol: library.institutionSymbol,
           institutionState: library.institutionState,
           date: {
-            [library.fileYear]: { [library.fileMonth]: library.requestsFilled }
+            [library.fileYear]: {
+              [library.fileMonth]: [
+                library.lendingRequestsMade,
+                library.lendingRequestsFilled
+              ]
+            }
           }
         };
         db.collection('libraries').add({
