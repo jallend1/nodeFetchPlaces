@@ -122,8 +122,6 @@ const determineLocationBias = (library) => {
 const fetchFromJSON = (libraryData) => {
   // If the library exists, add the date and number of requests filled to the existing object
 
-  console.log(libraryData);
-
   const targetLibrary = storedLibraries.find(
     (storedLibrary) => storedLibrary.name === libraryData.name
   );
@@ -149,9 +147,37 @@ const fetchFromJSON = (libraryData) => {
   // TODO: Return the library details from the JSON file in the same format as the one being returned from Google
 };
 
+// TODO: Questionable and complicated way to account for OCLC standard abbreviations-- Regex?
+const refineSearchTerm = (library) => {
+  let revisedName = library.name;
+  if (revisedName.includes('PUB ')) {
+    revisedName = revisedName.replace('PUB ', 'PUBLIC ');
+  }
+  if (revisedName.includes('LIBR ')) {
+    revisedName = revisedName.replace('LIBR ', 'LIBRARY ');
+  }
+  if (revisedName.endsWith('LIBR')) {
+    revisedName = revisedName.replace('LIBR', 'LIBRARY');
+  }
+  if (revisedName.includes('CNTY ')) {
+    revisedName = revisedName.replace('CNTY ', 'COUNTY ');
+  }
+  if (revisedName.includes('COMM ')) {
+    revisedName = revisedName.replace('COMM ', 'COMMUNITY ');
+  }
+  if (revisedName.includes('DIST ')) {
+    revisedName = revisedName.replace('DIST ', 'DISTRICT ');
+  }
+  if (revisedName.endsWith('DIST')) {
+    revisedName = revisedName.replace('DIST', 'DISTRICT');
+  }
+  return revisedName;
+};
+
 const fetchCoordinates = () => {
   // Hardcoded to only two libraries for testing purposes
-  const sampleInfo = lendingLibraries.slice(0, 2);
+  const sampleInfo = lendingLibraries.slice(0, 4);
+
   const writeStream = fs.createWriteStream('locations.json', {
     flags: 'a'
   });
@@ -161,11 +187,12 @@ const fetchCoordinates = () => {
     // checkIfLibraryExists(library) ? fetchFromJSON(library) : console.log('No!');
     // TODO: Scaffold out the checkIfLibrary function!
     // TODO: Break out the Google API call into its own function
+    const refinedName = refineSearchTerm(library);
     const stateBias = determineLocationBias(library);
     client
       .findPlaceFromText({
         params: {
-          input: library.name,
+          input: refinedName,
           inputtype: 'textquery',
           fields: ['name', 'geometry'],
           key: process.env.GOOGLE_API_KEY,
@@ -185,14 +212,14 @@ const fetchCoordinates = () => {
             [library.fileYear]: { [library.fileMonth]: library.requestsFilled }
           }
         };
-        console.log(locationData.date[2022]);
-        // db.collection('libraries').add({
-        //   ...locationData
-        // });
+        db.collection('libraries').add({
+          ...locationData
+        });
         libraryDetails.push(locationData);
         if (index === sampleInfo.length - 1) {
           writeStream.write(JSON.stringify(libraryDetails));
         }
+        console.log(locationData);
       })
       .catch((e) => {
         console.log(e);
