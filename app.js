@@ -149,6 +149,21 @@ const refineSearchTerm = (library) => {
   if (revisedName.endsWith('DIST')) {
     revisedName = revisedName.replace('DIST', 'DISTRICT');
   }
+  if (revisedName.endsWith('COL')) {
+    revisedName = revisedName.replace('COL', 'COLLEGE');
+  }
+  if (revisedName.includes('COL ')) {
+    revisedName = revisedName.replace('COL ', 'COLLEGE ');
+  }
+  if (revisedName.includes('COLL ')) {
+    revisedName = revisedName.replace('COLL ', 'COLLEGE ');
+  }
+  if (revisedName.includes('SCH ')) {
+    revisedName = revisedName.replace('SCH ', 'SCHOOL ');
+  }
+  if (revisedName.includes('SCHL ')) {
+    revisedName = revisedName.replace('SCHL ', 'SCHOOL ');
+  }
   return revisedName;
 };
 
