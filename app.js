@@ -4,13 +4,14 @@
 // TODO: Check if the new library exists in the database
 // TODO: If it does not, fetch the coordinates and add it to the database
 
+const { createReadStream, createWriteStream, readFileSync } = require('fs');
+const { validateFile } = require('./commandLine');
 const { config } = require('dotenv');
 const { initializeApp, cert } = require('firebase-admin/app');
 const { getFirestore } = require('firebase-admin/firestore');
 const firebaseAccountKey = require('./firebaseAccountKey.json');
 const { Client } = require('@googlemaps/google-maps-services-js');
 const client = new Client({});
-const fs = require('fs');
 const { parse } = require('csv-parse');
 const syncParse = require('csv-parse/sync');
 const states = require('./assets/stateBias.json');
@@ -23,33 +24,9 @@ initializeApp({
 });
 const db = getFirestore();
 
-const getSourceFileFromCommandLine = (args) => {
-  if (!args) {
-    console.log('Usage: node app.js <filename>');
-    process.exit(1);
-  } else if (args === 'help') {
-    console.log(
-      "Accepts WorldShare Lender Transaction Detail Report in .tsv format in the app's directory and outputs a JSON file with the library's name, coordinates, and number of requests filled."
-    );
-    console.log('Usage: node app.js <filename>');
-    console.log('Example: node app.js sep');
-    process.exit(1);
-  }
-  return args.endsWith('.tsv') ? args : args + '.tsv';
-};
-
-const validateFile = () => {
-  const args = getSourceFileFromCommandLine(process.argv[2]);
-  if (!fs.existsSync(args)) {
-    console.log(`${args} does not exist in the current directory.`);
-    process.exit(1);
-  }
-  return args;
-};
-
 // TODO: Update this to be an additional .pipe on the original read stream
 const extractDateFromCSV = (localDataSource) => {
-  const dataFile = fs.readFileSync(localDataSource, 'utf8');
+  const dataFile = readFileSync(localDataSource, 'utf8');
   const rawDataDate = syncParse.parse(dataFile, {
     delimiter: '\t',
     from_line: 5,
@@ -63,8 +40,8 @@ const extractDateFromCSV = (localDataSource) => {
 const extractDataFromCSV = (localDataSource) => {
   const dataDateArray = extractDateFromCSV(localDataSource);
   // process.exit(1);
-  const convertedJSON = fs.createWriteStream('lendingLibraries.json');
-  fs.createReadStream(localDataSource)
+  const convertedJSON = createWriteStream('lendingLibraries.json');
+  createReadStream(localDataSource)
     .pipe(parse({ delimiter: '\t', from_line: 14, relax_column_count: true }))
     .on('data', (row) => {
       // If library actually lent books, add to array
@@ -179,7 +156,7 @@ const fetchCoordinates = () => {
   // Hardcoded to only two libraries for testing purposes
   const sampleInfo = lendingLibraries.slice(0, 4);
 
-  const writeStream = fs.createWriteStream('locations.json', {
+  const writeStream = createWriteStream('locations.json', {
     flags: 'a'
   });
 
@@ -202,6 +179,7 @@ const fetchCoordinates = () => {
         timeout: 1000
       })
       // TODO: Incorporate space for borrowing AND lending data in one library's record
+      // TODO: Alternately, have one dedicated collection for library location data and another for borrowing/lending data
       .then(({ data }) => {
         const locationData = {
           googleMapsName: data.candidates[0].name,
